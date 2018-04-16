@@ -1,0 +1,2340 @@
+
+<!DOCTYPE HTML>
+<html class="bbs-page">
+<head>
+<meta charset="utf-8">
+<title>学术中国_论坛_天涯社区</title>
+<meta name="keywords" content="学术中国,文学,天涯,天涯论坛,天涯社区" />
+<meta name="description" content="天涯社区旗下学术中国论坛版块，共有43745个主帖，365770个回帖，38536个成员。人文社会－－-社会观察，世象百态，民间的疾苦与欢乐，体现本坛人道主义的人文关怀精神。经典论说－－－－思想史上不朽的理论学说，请你评述与梳理思考中国－－－－变革中的中国现状观察，请用学理的角度分析大师研究－－－－思想史的的大师与巨匠，他们的生平与思想成就焦点论争－－－－介绍当今或思想史上的学术争论文学批评－－－－文艺理论和文学批评，这也是学术历史思考－－－－历史学理论、历史风云人物和事件，任你述说论文求助－－－－供学人发论文稿求教学术求助－－－－供学子发理论问题求教" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+
+<meta http-equiv="Cache-Control" content="no-transform"/>
+<meta http-equiv="Cache-Control" content="no-siteapp"/> 
+<meta name="applicable-device" content="pc">
+<meta name="mobile-agent" content="format=xhtml; url=http://bbs.tianya.cn/m/list-666-1.shtml">
+<meta name="mobile-agent" content="format=html5; url=http://bbs.tianya.cn/m/list-666-1.shtml">
+<meta name="mobile-agent" content="format=wml; url=http://bbs.tianya.cn/m/list-666-1.shtml">
+<link rel="alternate" media="only screen and (max-width: 640px)" href="http://bbs.tianya.cn/m/list-666-1.shtml" >
+
+<link href="http://static.tianyaui.com/global/ty/TY.css" rel="stylesheet" type="text/css" />
+<link href="http://static.tianyaui.com/global/bbs/web/static/css/bbs_4199136.css" rel="stylesheet" type="text/css" />
+<link rel="shortcut icon" href="http://static.tianyaui.com/favicon.ico" type="image/vnd.microsoft.icon" />
+<Script>
+var bbsGlobal = {
+	item : "666",
+	itemName : "学术中国",
+	leftNavId : "23",
+	itemPermission : 1,
+	blocktype : "副版",
+	laibaType : "开放",
+	isEhomeItem : false,
+	itemType : "副版",
+	isBanwu : false,
+	itemCategory : "文学"
+};
+var adsGlobal = {
+	itemId : "993",
+	pageType : "01",
+	popWinId: "08"
+};
+</Script>
+<script type="text/javascript" charset="utf-8" src="http://static.tianyaui.com/global/ty/TY.js"></script>
+<script type="text/javascript" charset="utf-8" src="http://static.tianyaui.com/global/bbs/web/static/js/main_a89ad62.js"></script>
+<!--[if lt IE 7]>
+  <script src="http://static.tianyaui.com/global/ty/util/image/DD_belatedPNG_0.0.8a.js" type="text/javascript"></script>
+<![endif]-->
+<style>
+	.layout-1280 #bbsdoc{width:1255px;}
+	.layout-1280 #bbsdoc .layout-lmr #main{width:920px;}
+	.layout-1280 #bbsdoc .layout-mr #main{width:1035px;}
+	.layout-1280 #bbsdoc .layout-lm #main{width:1110px;}
+	.layout-1280 #bbsdoc .layout-m #main{width:1215px;}
+	.layout-1280 .ad-additional{ display:inline-block;}
+	.layout-1280-top-nav div#top_nav_wrap{ width:1115px;}
+</style>
+</head>
+<body>
+<script type="text/javascript" charset="utf-8">
+(function($){var nStorage=false;var _key="screenStatus";if(window.localStorage){nStorage=TY.io.storage.get(_key)}else{nStorage=__global.getCookie(_key)}if(nStorage){$("body").addClass("layout-"+nStorage+" layout-"+nStorage+"-top-nav")}})(jQuery);	
+</script>
+<div>
+	<div id="top_nav_banner">
+    <div id="top_nav_wrap" style="">
+        <div class="clearfix" id="top_nav">
+            <div class="top-nav-logo"><a _tystat="新版顶导航/Logo" href="http://focus.tianya.cn/"></a></div>
+            <div class="top-nav-main clearfix">
+                <div class="top-nav-menu clearfix">
+                    <div class="top-nav-fl clearfix">
+                        <ul class="top-nav-menu-list clearfix">
+                            <li class="top-nav-menu-li top-nav-menu-li-first">
+							<a _tystat="新版顶导航/论坛" _checklocation="1" appstr="bbs" class="top-nav-main-menu  on" href="http://bbs.tianya.cn/">论坛</a>
+                            </li>
+                            <li class="top-nav-menu-li"><a _tystat="新版顶导航/分社区/聚焦" _checklocation="1" appstr="focus"
+                                                           class="top-nav-main-menu"
+                                                           href="http://focus.tianya.cn/">聚焦</a></li>
+                            <li class="top-nav-menu-li"><a _tystat="新版顶导航/部落" _checklocation="1"
+                                                           class="top-nav-main-menu"
+                                                           href="http://groups.tianya.cn/">部落</a></li>
+                            <li class="top-nav-menu-li"><a href="http://shang.tianya.cn" class="top-nav-main-menu"
+                                                           _tystat="新版顶导航/天涯榜" appstr="shang" _checklocation="1">天涯榜</a>
+                            </li>
+                            <li class="top-nav-menu-li">
+								<div class="more-view" id="top_nav_menu_more_view" style="display: none;">
+									<div class="link-rec clearfix">
+										<div class="link-list">
+											<a href="http://wenda.tianya.cn/" class="top-nav-main-menu" _tystat="新版顶导航/问答" appstr="wenda" _checklocation="1">问答</a><a href="http://blog.tianya.cn/" class="top-nav-main-menu" _tystat="新版顶导航/博客" appstr="blog" _checklocation="1">博客</a><a href="http://book.tianya.cn/" class="top-nav-main-menu" _tystat="新版顶导航/文学" appstr="ebook" _checklocation="1">文学</a>
+										</div>
+										<div class="link-list clearfix">
+											<div class="link-wrap clearfix">
+												<label for="">主题</label>
+													<div class="links">
+														<a href="http://book.tianya.cn/" class="top-nav-main-menu" _tystat="新版顶导航/民生" appstr="" _checklocation="1">民生</a>
+														<a href="http://ent.tianya.cn/" class="top-nav-main-menu" _tystat="新版顶导航/娱乐" appstr="" _checklocation="1">娱乐</a>
+														<a href="http://cul.tianya.cn/" class="top-nav-main-menu" _tystat="新版顶导航/人文" appstr="" _checklocation="1">人文</a>
+														<a href="http://yuqing.tianya.cn/" class="top-nav-main-menu" _tystat="新版顶导航/舆情" appstr="" _checklocation="1">舆情</a>
+														<a href="http://biz.tianya.cn/" class="top-nav-main-menu" _tystat="新版顶导航/股票" appstr="" _checklocation="1">股票</a>
+														<a href="http://auto.tianya.cn/" class="top-nav-main-menu" _tystat="新版顶导航/汽车" appstr="" _checklocation="1">汽车</a>
+														<a href="http://fashion.tianya.cn/" class="top-nav-main-menu" _tystat="新版顶导航/时尚" appstr="" _checklocation="1">时尚</a>
+														<a href="http://emo.tianya.cn/" class="top-nav-main-menu" _tystat="新版顶导航/情感" appstr="" _checklocation="1">情感</a>
+														<a href="http://travel.tianya.cn/index.shtml" class="top-nav-main-menu" _tystat="新版顶导航/旅游" appstr="" _checklocation="1">旅游</a>
+														<a href="http://star.tianya.cn/" class="top-nav-main-menu" _tystat="新版顶导航/星工场" appstr="" _checklocation="1">星工场</a>
+													</div>
+												</div>
+											<div class="link-wrap clearfix">
+												<label for="">区域</label>
+													<div class="links">
+														<a href="http://korea.tianya.cn/index.shtml" class="top-nav-main-menu" _tystat="新版顶导航/韩国" appstr="" _checklocation="1">韩国</a>
+														<a href="http://www.hainan.net/" class="top-nav-main-menu" _tystat="新版顶导航/海南" appstr="" _checklocation="1">海南</a>
+														<a href="http://sanya.tianya.cn/" class="top-nav-main-menu" _tystat="新版顶导航/三亚" appstr="" _checklocation="1">三亚</a>
+														<a href="http://cq.tianya.cn/" class="top-nav-main-menu" _tystat="新版顶导航/重庆" appstr="" _checklocation="1">重庆</a>
+														<a href="http://gd.tianya.cn/" class="top-nav-main-menu" _tystat="新版顶导航/广东" appstr="" _checklocation="1">广东</a>
+														<a href="http://sz.tianya.cn/" class="top-nav-main-menu" _tystat="新版顶导航/深圳" appstr="" _checklocation="1">深圳</a>
+														<a href="http://hunan.tianya.cn/" class="top-nav-main-menu" _tystat="新版顶导航/湖南" appstr="" _checklocation="1">湖南</a>
+														<a href="http://gx.tianya.cn/" class="top-nav-main-menu" _tystat="新版顶导航/广西" appstr="" _checklocation="1">广西</a>
+														<a href="http://fj.tianya.cn/" class="top-nav-main-menu" _tystat="新版顶导航/福建" appstr="" _checklocation="1">福建</a>
+														<a href="http://guizhou.tianya.cn/" class="top-nav-main-menu" _tystat="新版顶导航/星工场" appstr="" _checklocation="1">贵州</a>
+														<a href="http://sd.tianya.cn/" class="top-nav-main-menu" _tystat="新版顶导航/山东" appstr="" _checklocation="1">山东</a>
+														<a href="http://sx.tianya.cn/" class="top-nav-main-menu" _tystat="新版顶导航/陕西" appstr="" _checklocation="1">陕西</a>
+													</div>
+												</div>
+												<div class="link-wrap clearfix no-border">
+													<label for="">其他</label>
+													<div class="links">
+														<a href="http://licai.tianya.cn/ins_index" class="top-nav-main-menu" _tystat="新版顶导航/理财" appstr="" _checklocation="1">理财</a>
+														<a href="http://nong.tianya.cn/" class="top-nav-main-menu" _tystat="新版顶导航/农场" appstr="" _checklocation="1">农场</a>
+														<a href="http://game.tianya.cn/" class="top-nav-main-menu" _tystat="新版顶导航/游戏" appstr="" _checklocation="1">游戏</a>
+														<a href="http://pinpai.tianya.cn/" class="top-nav-main-menu" _tystat="新版顶导航/品牌" appstr="" _checklocation="1">品牌</a>
+														<a href="http://zc.tianya.cn/" class="top-nav-main-menu" _tystat="新版顶导航/众筹" appstr="" _checklocation="1">众筹</a>
+													</div>
+												</div>
+											</div>
+											<div class="service">
+												<a href="http://service.tianya.cn/">联系客服</a>
+											</div>
+										</div>
+										<div class="code-wrap">
+											<div class="code-border"><div>
+												<a href="http://www.tianya.cn/mobile/">天涯APP</a>
+											</div>
+											<span></span>
+										</div>
+									</div>
+								</div>
+							<span class="top-nav-main-menu" id="top_nav_menu_more"></span>
+						</li>
+                        </ul>
+                    </div>
+                    <div class="top-nav-fr top-search" id="top_search" style="overflow: hidden;">
+                        <div class="search-btn" style=""></div>
+                        <div class="clearfix search-wrap" style="display:;">
+                            <form method="get" action="http://search.tianya.cn/bbs" id="top_search_form"><input value="" class="top-search-submit" id="top_search_submit_btn" type="submit"><input autocomplete="off" value="" class="top-search-key off" name="q" id="top_search_key" type="text"></form>
+                        </div>
+                        <div class="top-search-type" id="top_search_type" style="display: none;">
+                          
+                            <ul style="display: none;">
+                                <li id="search_zone_list"></li>
+                                <li><a href="javascript:void(0);" id="search-text">含有<strong>?</strong>的内容&gt;&gt;</a>
+                                </li>
+                                <li><a href="javascript:void(0);" id="search-user">名为<strong>?</strong>的人&gt;&gt;</a>
+                                </li>
+                                <li class="clearfix">
+                                    <dl class="forum-list">
+                                        <dt>含有<strong>?</strong>的版块&gt;&gt;</dt>
+                                    </dl>
+                                </li>
+                                <li><a href="javascript:void(0);" id="search-tab">去<strong>?</strong>的标签&gt;&gt;</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="top-nav-fr" id="top_user_menu">
+                        <ul class="top-nav-menu-list clearfix">
+                           
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+	<script type="text/javascript" charset="utf-8">TY.ui.nav.init({showTopNav:false,topNavFromHtml:true});</script>
+<div id="bbsdoc" class="bbsdoc">
+    <div class="clearfix"></div><!--兼容个别浏览器强制改变最小字号而导致的页面错乱-->
+    <div id="hd"></div>
+    <div id="bd" class="layout-lmr clearfix">
+        <div id="left">
+            
+<div id="bbs_left_nav" class="bbs_left_nav">
+	<div class="bbs_left_logo">
+		<a href="http://bbs.tianya.cn/"></a>
+	</div>
+<ul class="nav_parent">
+<li><a class="expand" href="/list-lookout-1.shtml" class="expand" item="lookout">了望天涯</a></li>
+<li><a hidefocus class="folder" href="#">天涯主版</a></li>
+<li><a hidefocus class="folder" href="#"><font color="yellow">天涯网事</font></a></li>
+<li><a hidefocus class="folder expand" href="#">天涯别院</a></li>
+<li><a hidefocus class="folder" href="#">区域论坛</a></li>
+<li><a hidefocus class="folder" href="http://bbs.tianya.cn/travel_index.jsp" item="bbsself">旅游论坛</a></li>
+<li><a hidefocus class="folder" href="#">职业交流</a></li>
+<li><a hidefocus class="folder" href="#">大学校园</a></li>
+<li><a hidefocus class="folder" href="#">天涯问答</a></li>
+</ul>
+<div class="line">&nbsp;</div>
+<div class="nav_child_box" _stat="/stat/bbs/block/左侧导航">
+<ul class="nav_child"><li><a itemid="free" class="child_link" href="/list-free-1.shtml">天涯杂谈</a></li>
+<li><a itemid="university" class="child_link" href="/list-university-1.shtml">我的大学</a></li>
+<li><a itemid="828" class="child_link" href="/list-828-1.shtml">百姓声音</a></li>
+<li><a itemid="develop" class="child_link" href="/list-develop-1.shtml">经济论坛</a></li>
+<li><a itemid="stocks" class="child_link" href="/list-stocks-1.shtml">股市论谈</a></li>
+<li><a itemid="1151" class="child_link" href="/list-1151-1.shtml">掘金网络股</a></li>
+<li><a itemid="1179" class="child_link" href="/list-1179-1.shtml"><font color="yellow">金融先锋</font></a></li>
+<li><a itemid="665" class="child_link" href="/list-665-1.shtml">视频专区</a></li>
+<li><a itemid="feeling" class="child_link" href="/list-feeling-1.shtml">情感天地</a></li>
+<li><a itemid="no11" class="child_link" href="/list-no11-1.shtml">时尚资讯</a></li>
+<li><a itemid="play" class="child_link" href="/list-play-1.shtml">游戏地带</a></li>
+</ul>
+<ul class="nav_child"><li class="child_hd"></li>
+<li><a itemid="1177" class="child_link" href="/list-1177-1.shtml">天涯银河</a></li>
+<li><a itemid="1178" class="child_link" href="/list-1178-1.shtml">红袖天涯</a></li>
+<li><a itemid="culture" class="child_link" href="/list-culture-1.shtml">舞文弄墨</a></li>
+<li><a itemid="16" class="child_link" href="/list-16-1.shtml">莲蓬鬼话</a></li>
+<li><a itemid="no05" class="child_link" href="/list-no05-1.shtml">煮酒论史</a></li>
+<li><a itemid="no01" class="child_link" href="/list-no01-1.shtml">关天茶舍</a></li>
+<li><a itemid="books" class="child_link" href="/list-books-1.shtml">闲闲书话</a></li>
+<li><a itemid="no02" class="child_link" href="/list-no02-1.shtml">诗词比兴</a></li>
+</ul>
+<ul class="nav_child"><li class="child_hd"></li>
+<li><a itemid="house" class="child_link" href="/list-house-1.shtml">房产观澜</a></li>
+<li><a itemid="no22" class="child_link" href="/list-no22-1.shtml">理财前线</a></li>
+<li><a itemid="no20" class="child_link" href="/list-no20-1.shtml">职场天地</a></li>
+<li><a itemid="enterprise" class="child_link" href="/list-enterprise-1.shtml">创业家园</a></li>
+<li><a itemid="cars" class="child_link" href="/list-cars-1.shtml">汽车时代</a></li>
+</ul>
+<ul class="nav_child"><li class="child_hd"></li>
+<li><a itemid="law" class="child_link" href="/list-law-1.shtml">法治论坛</a></li>
+<li><a itemid="news" class="child_link" href="/list-news-1.shtml">新闻众评</a></li>
+<li><a itemid="worldlook" class="child_link" href="/list-worldlook-1.shtml">国际观察</a></li>
+<li><a itemid="333" class="child_link" href="/list-333-1.shtml">台湾风云</a></li>
+<li><a itemid="105" class="child_link" href="/list-105-1.shtml">未知学院</a></li>
+</ul>
+<ul class="nav_child"><li class="child_hd"></li>
+<li><a itemid="travel" class="child_link" href="/list-travel-1.shtml">旅游休闲</a></li>
+<li><a itemid="96" class="child_link" href="/list-96-1.shtml">饮食男女</a></li>
+<li><a itemid="768" class="child_link" href="/list-768-1.shtml">我爱网购</a></li>
+<li><a itemid="98" class="child_link" href="/list-98-1.shtml">亲子中心</a></li>
+<li><a itemid="outseachina" class="child_link" href="/list-outseachina-1.shtml">海外华人</a></li>
+<li><a itemid="100" class="child_link" href="/list-100-1.shtml">天涯医院</a></li>
+<li><a itemid="spirit" class="child_link" href="/list-spirit-1.shtml">心灵热线</a></li>
+<li><a itemid="934" class="child_link" href="/list-934-1.shtml">婆媳关系</a></li>
+<li><a itemid="oldgirl" class="child_link" href="/list-oldgirl-1.shtml">三十不嫁</a></li>
+<li><a itemid="water" class="child_link" href="/list-water-1.shtml">灌水专区</a></li>
+</ul>
+<ul class="nav_child"><li class="child_hd"></li>
+<li><a itemid="funinfo" class="child_link" href="/list-funinfo-1.shtml">娱乐八卦</a></li>
+<li><a itemid="1095" class="child_link" href="/list-1095-1.shtml"><font color="yellow">生活那点事</font></a></li>
+<li><a itemid="tianyamyself" class="child_link" href="/list-tianyamyself-1.shtml">天涯真我</a></li>
+<li><a itemid="filmtv" class="child_link" href="/list-filmtv-1.shtml">影视评论</a></li>
+<li><a itemid="14" class="child_link" href="/list-14-1.shtml">开心乐园</a></li>
+<li><a itemid="no04" class="child_link" href="/list-no04-1.shtml">贴图专区</a></li>
+<li><a itemid="766" class="child_link" href="/list-766-1.shtml">家居装饰</a></li>
+</ul>
+</div>
+<div class="nav_child_box" _stat="/stat/bbs/block/左侧导航">
+<ul class="nav_child"><li><a itemid="lookout" class="child_link" href="/list-lookout-1.shtml">了望天涯</a></li>
+<li><a itemid="137" class="child_link" href="/list-137-1.shtml">天香赌坊</a></li>
+<li><a itemid="1171" class="child_link" href="/list-1171-1.shtml">天涯竞猜</a></li>
+<li><a itemid="174" class="child_link" href="/list-174-1.shtml">天涯志</a></li>
+<li><a itemid="810" class="child_link" href="/list-810-1.shtml">天涯共此时</a></li>
+<li><a itemid="24" class="child_link" href="/list-24-1.shtml">天涯婚礼堂</a></li>
+<li><a itemid="409" class="child_link" href="/list-409-1.shtml">天涯玫瑰园</a></li>
+<li><a itemid="172" class="child_link" href="/list-172-1.shtml">天涯居委会</a></li>
+<li><a itemid="410" class="child_link" href="/list-410-1.shtml"><font color="yellow">主播天地</font></a></li>
+<li><a itemid="168" class="child_link" href="/list-168-1.shtml">天涯有我</a></li>
+<li><a itemid="31" class="child_link" href="/list-31-1.shtml">大话天涯</a></li>
+<li><a itemid="411" class="child_link" href="/list-411-1.shtml">天涯交易所</a></li>
+</ul>
+</div>
+<div class="nav_child_box" style="display:block;" _stat="/stat/bbs/block/左侧导航">
+<ul class="nav_child"><li class="child_hd"><span class="child_name">民生</span></li>
+<li><a itemid="666" class="child_link" href="/list-666-1.shtml">学术中国</a></li>
+<li><a itemid="113" class="child_link" href="/list-113-1.shtml">人物研究</a></li>
+<li><a itemid="780" class="child_link" href="/list-780-1.shtml">个性90后</a></li>
+<li><a itemid="210" class="child_link" href="/list-210-1.shtml">生于八十</a></li>
+<li><a itemid="420" class="child_link" href="/list-420-1.shtml">七十年代</a></li>
+<li><a itemid="943" class="child_link" href="/list-943-1.shtml">民间语文</a></li>
+<li><a itemid="647" class="child_link" href="/list-647-1.shtml">国学明道</a></li>
+<li><a itemid="157" class="child_link" href="/list-157-1.shtml">环保先锋</a></li>
+<li><a itemid="help" class="child_link" href="/list-help-1.shtml">天涯互助</a></li>
+<li><a itemid="972" class="child_link" href="/list-972-1.shtml">实话实说</a></li>
+<li><a itemid="838" class="child_link" href="/list-838-1.shtml">公益同行</a></li>
+<li><a itemid="22" class="child_link" href="/list-22-1.shtml">留学生涯</a></li>
+<li><a itemid="consumer" class="child_link" href="/list-consumer-1.shtml">消费者报道</a></li>
+<li><a itemid="1131" class="child_link" href="/list-1131-1.shtml">圆满假期</a></li>
+<li><a itemid="1175" class="child_link" href="/list-1175-1.shtml">全景视界</a></li>
+<li><a itemid="837" class="child_link" href="/list-837-1.shtml">天天315</a></li>
+<li><a itemid="1089" class="child_link" href="/list-1089-1.shtml">亚洲论坛</a></li>
+</ul>
+<ul class="nav_child"><li class="child_hd"><span class="child_name">文学</span></li>
+<li><a itemid="67" class="child_link" href="/list-67-1.shtml">拈花微笑</a></li>
+<li><a itemid="106" class="child_link" href="/list-106-1.shtml">书话红楼</a></li>
+<li><a itemid="66" class="child_link" href="/list-66-1.shtml">灯谜天地</a></li>
+<li><a itemid="241" class="child_link" href="/list-241-1.shtml">寓言格言</a></li>
+<li><a itemid="139" class="child_link" href="/list-139-1.shtml">栀子花开</a></li>
+<li><a itemid="160" class="child_link" href="/list-160-1.shtml">打油诗社</a></li>
+<li><a itemid="187" class="child_link" href="/list-187-1.shtml">文学批评</a></li>
+<li><a itemid="486" class="child_link" href="/list-486-1.shtml">先锋阵地</a></li>
+<li><a itemid="218" class="child_link" href="/list-218-1.shtml">今古传奇</a></li>
+<li><a itemid="364" class="child_link" href="/list-364-1.shtml">左岸花开</a></li>
+<li><a itemid="390" class="child_link" href="/list-390-1.shtml">天涯读书</a></li>
+<li><a itemid="901" class="child_link" href="/list-901-1.shtml">书画商场</a></li>
+<li><a itemid="1005" class="child_link" href="/list-1005-1.shtml">悦读中国</a></li>
+<li><a itemid="shortmessage" class="child_link" href="/list-shortmessage-1.shtml">短文故乡</a></li>
+<li><a itemid="no124" class="child_link" href="/list-no124-1.shtml">奇幻文学</a></li>
+<li><a itemid="23" class="child_link" href="/list-23-1.shtml">对联雅座</a></li>
+<li><a itemid="no17" class="child_link" href="/list-no17-1.shtml">仗剑天涯</a></li>
+<li><a itemid="169" class="child_link" href="/list-169-1.shtml">金石书画</a></li>
+<li><a itemid="no16" class="child_link" href="/list-no16-1.shtml">散文天下</a></li>
+<li><a itemid="poem" class="child_link" href="/list-poem-1.shtml">天涯诗会</a></li>
+</ul>
+<ul class="nav_child"><li class="child_hd"><span class="child_name">时尚</span></li>
+<li><a itemid="762" class="child_link" href="/list-762-1.shtml">时尚男装</a></li>
+<li><a itemid="150" class="child_link" href="/list-150-1.shtml">珠宝首饰</a></li>
+<li><a itemid="737" class="child_link" href="/list-737-1.shtml">花田囍事</a></li>
+<li><a itemid="911" class="child_link" href="/list-911-1.shtml">美颜靓妆</a></li>
+<li><a itemid="738" class="child_link" href="/list-738-1.shtml">营养保健</a></li>
+<li><a itemid="912" class="child_link" href="/list-912-1.shtml">快乐备孕</a></li>
+<li><a itemid="767" class="child_link" href="/list-767-1.shtml">家有学童</a></li>
+<li><a itemid="201" class="child_link" href="/list-201-1.shtml">品酒论情</a></li>
+<li><a itemid="149" class="child_link" href="/list-149-1.shtml">都市生活</a></li>
+<li><a itemid="75" class="child_link" href="/list-75-1.shtml">宠物乐园</a></li>
+<li><a itemid="151" class="child_link" href="/list-151-1.shtml">墨色茶坊</a></li>
+<li><a itemid="805" class="child_link" href="/list-805-1.shtml">中医养生</a></li>
+<li><a itemid="358" class="child_link" href="/list-358-1.shtml">女人公社</a></li>
+<li><a itemid="43" class="child_link" href="/list-43-1.shtml">天涯丽人</a></li>
+</ul>
+<ul class="nav_child"><li class="child_hd"><span class="child_name">情感</span></li>
+<li><a itemid="99" class="child_link" href="/list-99-1.shtml">我爱我家</a></li>
+<li><a itemid="166" class="child_link" href="/list-166-1.shtml">爱情诊所</a></li>
+<li><a itemid="363" class="child_link" href="/list-363-1.shtml">馨馨相印</a></li>
+<li><a itemid="1013" class="child_link" href="/list-1013-1.shtml">温暖迹忆</a></li>
+</ul>
+<ul class="nav_child"><li class="child_hd"><span class="child_name">娱乐</span></li>
+<li><a itemid="84" class="child_link" href="/list-84-1.shtml">星座情緣</a></li>
+<li><a itemid="607" class="child_link" href="/list-607-1.shtml">都市拍客</a></li>
+<li><a itemid="1090" class="child_link" href="/list-1090-1.shtml">数码摄影</a></li>
+<li><a itemid="108" class="child_link" href="/list-108-1.shtml">配音公社</a></li>
+<li><a itemid="924" class="child_link" href="/list-924-1.shtml">天涯观光团</a></li>
+<li><a itemid="71" class="child_link" href="/list-71-1.shtml">ＩＱ无限</a></li>
+<li><a itemid="524" class="child_link" href="/list-524-1.shtml">周公解梦</a></li>
+<li><a itemid="177" class="child_link" href="/list-177-1.shtml">怡情棋斋</a></li>
+<li><a itemid="3d" class="child_link" href="/list-3d-1.shtml">动漫前线</a></li>
+<li><a itemid="funstribe" class="child_link" href="/list-funstribe-1.shtml">超级秀场</a></li>
+<li><a itemid="tianyaphoto" class="child_link" href="/list-tianyaphoto-1.shtml">天涯摄影</a></li>
+<li><a itemid="410" class="child_link" href="/list-410-1.shtml"><font color="yellow">主播天地</font></a></li>
+<li><a itemid="26" class="child_link" href="/list-26-1.shtml">吉他伊甸园</a></li>
+</ul>
+<ul class="nav_child"><li class="child_hd"><span class="child_name">影音</span></li>
+<li><a itemid="indepfilm" class="child_link" href="/list-indepfilm-1.shtml">华语电影</a></li>
+<li><a itemid="384" class="child_link" href="/list-384-1.shtml">天涯剧社</a></li>
+<li><a itemid="200" class="child_link" href="/list-200-1.shtml">音乐共享</a></li>
+<li><a itemid="38" class="child_link" href="/list-38-1.shtml">摇滚乐章</a></li>
+<li><a itemid="138" class="child_link" href="/list-138-1.shtml">古典音乐</a></li>
+<li><a itemid="705" class="child_link" href="/list-705-1.shtml">老歌会</a></li>
+<li><a itemid="641" class="child_link" href="/list-641-1.shtml">天涯飙歌台</a></li>
+<li><a itemid="1172" class="child_link" href="/list-1172-1.shtml">嘻哈杂谈</a></li>
+<li><a itemid="music" class="child_link" href="/list-music-1.shtml">音乐天地</a></li>
+</ul>
+<ul class="nav_child"><li class="child_hd"><span class="child_name">兴趣</span></li>
+<li><a itemid="no100" class="child_link" href="/list-no100-1.shtml">管理前线</a></li>
+<li><a itemid="967" class="child_link" href="/list-967-1.shtml">风云众创</a></li>
+<li><a itemid="20" class="child_link" href="/list-20-1.shtml">网上谈兵</a></li>
+<li><a itemid="107" class="child_link" href="/list-107-1.shtml">三国纵横</a></li>
+<li><a itemid="103" class="child_link" href="/list-103-1.shtml">收藏天地</a></li>
+<li><a itemid="29" class="child_link" href="/list-29-1.shtml">科幻奥秘</a></li>
+<li><a itemid="131" class="child_link" href="/list-131-1.shtml">风土人情</a></li>
+<li><a itemid="192" class="child_link" href="/list-192-1.shtml">乡村季风</a></li>
+<li><a itemid="944" class="child_link" href="/list-944-1.shtml">购车咨询</a></li>
+<li><a itemid="743" class="child_link" href="/list-743-1.shtml">家电天下</a></li>
+<li><a itemid="sport" class="child_link" href="/list-sport-1.shtml">体育聚焦</a></li>
+<li><a itemid="fansunion" class="child_link" href="/list-fansunion-1.shtml">体育贴图</a></li>
+<li><a itemid="1154" class="child_link" href="/list-1154-1.shtml">约跑马拉松</a></li>
+<li><a itemid="it" class="child_link" href="/list-it-1.shtml">电脑网络</a></li>
+<li><a itemid="numtechnoloy" class="child_link" href="/list-numtechnoloy-1.shtml">数码生活</a></li>
+<li><a itemid="itinfo" class="child_link" href="/list-itinfo-1.shtml">ＩＴ视界</a></li>
+<li><a itemid="fans" class="child_link" href="/list-fans-1.shtml">球迷一家</a></li>
+<li><a itemid="basketball" class="child_link" href="/list-basketball-1.shtml">篮球公园</a></li>
+<li><a itemid="1181" class="child_link" href="/list-1181-1.shtml">王者聚集地</a></li>
+<li><a itemid="english" class="child_link" href="/list-english-1.shtml">英语杂谈</a></li>
+<li><a itemid="1182" class="child_link" href="/list-1182-1.shtml">科技论坛</a></li>
+</ul>
+<ul class="nav_child"><li class="child_hd"><span class="child_name">聚会</span></li>
+<li><a itemid="343" class="child_link" href="/list-343-1.shtml">蓝色老人</a></li>
+<li><a itemid="102" class="child_link" href="/list-102-1.shtml">没话找话</a></li>
+<li><a itemid="185" class="child_link" href="/list-185-1.shtml">百姓酒馆</a></li>
+<li><a itemid="952" class="child_link" href="/list-952-1.shtml">八卦春秋</a></li>
+</ul>
+<ul class="nav_child"><li class="child_hd"><span class="child_name">消费</span></li>
+<li><a itemid="1185" class="child_link" href="/list-1185-1.shtml">品牌阵地</a></li>
+<li><a itemid="1021" class="child_link" href="/list-1021-1.shtml">众说网购</a></li>
+<li><a itemid="923" class="child_link" href="/list-923-1.shtml">天涯购物街</a></li>
+<li><a itemid="927" class="child_link" href="/list-927-1.shtml">机票酒店</a></li>
+<li><a itemid="778" class="child_link" href="/list-778-1.shtml">彩票天地</a></li>
+<li><a itemid="1149" class="child_link" href="/list-1149-1.shtml">银天下</a></li>
+<li><a itemid="1164" class="child_link" href="/list-1164-1.shtml">现货先锋</a></li>
+<li><a itemid="1138" class="child_link" href="/list-1138-1.shtml">食在天涯</a></li>
+<li><a itemid="1183" class="child_link" href="/list-1183-1.shtml">云网客</a></li>
+</ul>
+<ul class="nav_child"><li class="child_hd"><span class="child_name">健康</span></li>
+<li><a itemid="1173" class="child_link" href="/list-1173-1.shtml">深圳牙科医院</a></li>
+<li><a itemid="985" class="child_link" href="/list-985-1.shtml">品牌男科</a></li>
+<li><a itemid="1143" class="child_link" href="/list-1143-1.shtml">美国试管婴儿</a></li>
+<li><a itemid="1176" class="child_link" href="/list-1176-1.shtml">重庆华美整形</a></li>
+</ul>
+</div>
+<div class="nav_child_box" _stat="/stat/bbs/block/左侧导航">
+<ul class="nav_child"><li><a itemid="39" class="child_link" href="/list-39-1.shtml">北京</a></li>
+<li><a itemid="59" class="child_link" href="/list-59-1.shtml">天津</a></li>
+<li><a itemid="77" class="child_link" href="/list-77-1.shtml">河北</a></li>
+<li><a itemid="80" class="child_link" href="/list-80-1.shtml">河南</a></li>
+<li><a itemid="42" class="child_link" href="/list-42-1.shtml">山东</a></li>
+<li><a itemid="88" class="child_link" href="/list-88-1.shtml">山西</a></li>
+<li><a itemid="97" class="child_link" href="/list-97-1.shtml">内蒙古</a></li>
+<li><a itemid="58" class="child_link" href="/list-58-1.shtml">辽宁</a></li>
+<li><a itemid="52" class="child_link" href="/list-52-1.shtml">吉林</a></li>
+<li><a itemid="82" class="child_link" href="/list-82-1.shtml">黑龙江</a></li>
+</ul>
+<ul class="nav_child"><li class="child_hd"></li>
+<li><a itemid="41" class="child_link" href="/list-41-1.shtml">上海</a></li>
+<li><a itemid="65" class="child_link" href="/list-65-1.shtml">江苏</a></li>
+<li><a itemid="61" class="child_link" href="/list-61-1.shtml">浙江</a></li>
+<li><a itemid="78" class="child_link" href="/list-78-1.shtml">安徽</a></li>
+<li><a itemid="90" class="child_link" href="/list-90-1.shtml">江西</a></li>
+</ul>
+<ul class="nav_child"><li class="child_hd"></li>
+<li><a itemid="44" class="child_link" href="/list-44-1.shtml">广东</a></li>
+<li><a itemid="79" class="child_link" href="/list-79-1.shtml">广西</a></li>
+<li><a itemid="56" class="child_link" href="/list-56-1.shtml">湖南</a></li>
+<li><a itemid="46" class="child_link" href="/list-46-1.shtml">湖北</a></li>
+<li><a itemid="92" class="child_link" href="/list-92-1.shtml">福建</a></li>
+<li><a itemid="hn" class="child_link" href="http://bbs.hainan.net/list-hn-1.shtml">海南</a></li>
+</ul>
+<ul class="nav_child"><li class="child_hd"></li>
+<li><a itemid="45" class="child_link" href="/list-45-1.shtml">重庆</a></li>
+<li><a itemid="63" class="child_link" href="/list-63-1.shtml">四川</a></li>
+<li><a itemid="178" class="child_link" href="/list-178-1.shtml">贵州</a></li>
+<li><a itemid="62" class="child_link" href="/list-62-1.shtml">云南</a></li>
+<li><a itemid="153" class="child_link" href="/list-153-1.shtml">西藏</a></li>
+<li><a itemid="183" class="child_link" href="/list-183-1.shtml">甘肃</a></li>
+<li><a itemid="60" class="child_link" href="/list-60-1.shtml">陕西</a></li>
+<li><a itemid="191" class="child_link" href="/list-191-1.shtml">宁夏</a></li>
+<li><a itemid="203" class="child_link" href="/list-203-1.shtml">青海</a></li>
+<li><a itemid="173" class="child_link" href="/list-173-1.shtml">新疆</a></li>
+</ul>
+<ul class="nav_child"><li class="child_hd"></li>
+<li><a itemid="208" class="child_link" href="/list-208-1.shtml">香港</a></li>
+<li><a itemid="331" class="child_link" href="/list-331-1.shtml">澳门时光</a></li>
+<li><a itemid="333" class="child_link" href="/list-333-1.shtml">台湾风云</a></li>
+</ul>
+<ul class="nav_child"><li class="child_hd"><span class="child_name">海外论坛</span></li>
+<li><a itemid="outseachina" class="child_link" href="/list-outseachina-1.shtml">海外华人</a></li>
+<li><a itemid="22" class="child_link" href="/list-22-1.shtml">留学生涯</a></li>
+<li><a itemid="1124" class="child_link" href="/list-1124-1.shtml">我是海归</a></li>
+<li><a itemid="1012" class="child_link" href="/list-1012-1.shtml">出国咨询</a></li>
+</ul>
+<ul class="nav_child"><li class="child_hd"></li>
+<li><a itemid="338" class="child_link" href="/list-338-1.shtml">美国</a></li>
+<li><a itemid="339" class="child_link" href="/list-339-1.shtml">加拿大</a></li>
+<li><a itemid="5032" class="child_link" href="/list-5032-1.shtml">巴西</a></li>
+<li><a itemid="5153" class="child_link" href="/list-5153-1.shtml">新西兰</a></li>
+<li><a itemid="340" class="child_link" href="/list-340-1.shtml">澳大利亚</a></li>
+<li><a itemid="5154" class="child_link" href="/list-5154-1.shtml">日本</a></li>
+<li><a itemid="388" class="child_link" href="/list-388-1.shtml">韩国</a></li>
+<li><a itemid="5240" class="child_link" href="/list-5240-1.shtml">迪拜</a></li>
+<li><a itemid="235" class="child_link" href="/list-235-1.shtml">新加坡</a></li>
+<li><a itemid="5230" class="child_link" href="/list-5230-1.shtml">马尔代夫</a></li>
+<li><a itemid="5038" class="child_link" href="/list-5038-1.shtml">马来西亚</a></li>
+<li><a itemid="5037" class="child_link" href="/list-5037-1.shtml">泰国</a></li>
+<li><a itemid="5156" class="child_link" href="/list-5156-1.shtml">越南</a></li>
+<li><a itemid="5030" class="child_link" href="/list-5030-1.shtml">菲律宾</a></li>
+<li><a itemid="5155" class="child_link" href="/list-5155-1.shtml">印度尼西亚</a></li>
+<li><a itemid="5036" class="child_link" href="/list-5036-1.shtml">印度</a></li>
+<li><a itemid="89" class="child_link" href="/list-89-1.shtml">英国</a></li>
+<li><a itemid="393" class="child_link" href="/list-393-1.shtml">德国</a></li>
+<li><a itemid="341" class="child_link" href="/list-341-1.shtml">法国</a></li>
+<li><a itemid="5028" class="child_link" href="/list-5028-1.shtml">西班牙</a></li>
+<li><a itemid="5031" class="child_link" href="/list-5031-1.shtml">俄罗斯</a></li>
+<li><a itemid="5033" class="child_link" href="/list-5033-1.shtml">南非</a></li>
+</ul>
+</div>
+<div class="nav_child_box" _stat="/stat/bbs/block/左侧导航">
+<ul class="nav_child"><li class="child_hd"><span class="child_name">综合</span></li>
+<li><a itemid="170" class="child_link" href="/list-170-1.shtml">工薪一族</a></li>
+<li><a itemid="443" class="child_link" href="/list-443-1.shtml">职业女性</a></li>
+<li><a itemid="763" class="child_link" href="/list-763-1.shtml">求职招聘</a></li>
+<li><a itemid="1170" class="child_link" href="/list-1170-1.shtml">语文学习</a></li>
+<li><a itemid="1179" class="child_link" href="/list-1179-1.shtml"><font color="yellow">金融先锋</font></a></li>
+<li><a itemid="saytenya" class="child_link" href="/list-saytenya-1.shtml">众创空间</a></li>
+</ul>
+<ul class="nav_child"><li class="child_hd"><span class="child_name">职业</span></li>
+<li><a itemid="415" class="child_link" href="/list-415-1.shtml">经理人</a></li>
+<li><a itemid="417" class="child_link" href="/list-417-1.shtml">工程师</a></li>
+<li><a itemid="414" class="child_link" href="/list-414-1.shtml">程序员</a></li>
+<li><a itemid="444" class="child_link" href="/list-444-1.shtml">设计师</a></li>
+<li><a itemid="413" class="child_link" href="/list-413-1.shtml">医护人员</a></li>
+<li><a itemid="361" class="child_link" href="/list-361-1.shtml">会计</a></li>
+<li><a itemid="140" class="child_link" href="/list-140-1.shtml">教师</a></li>
+<li><a itemid="217" class="child_link" href="/list-217-1.shtml">人力资源</a></li>
+<li><a itemid="142" class="child_link" href="/list-142-1.shtml">编辑记者</a></li>
+<li><a itemid="152" class="child_link" href="/list-152-1.shtml">市场营销</a></li>
+<li><a itemid="494" class="child_link" href="/list-494-1.shtml">采购人</a></li>
+<li><a itemid="54" class="child_link" href="/list-54-1.shtml">物流管理</a></li>
+<li><a itemid="188" class="child_link" href="/list-188-1.shtml">公务员</a></li>
+<li><a itemid="158" class="child_link" href="/list-158-1.shtml">警察天地</a></li>
+<li><a itemid="130" class="child_link" href="/list-130-1.shtml">军人</a></li>
+</ul>
+<ul class="nav_child"><li class="child_hd"><span class="child_name">行业</span></li>
+<li><a itemid="470" class="child_link" href="/list-470-1.shtml">农庄梦想</a></li>
+<li><a itemid="471" class="child_link" href="/list-471-1.shtml">矿产能源业</a></li>
+<li><a itemid="416" class="child_link" href="/list-416-1.shtml">制造业</a></li>
+<li><a itemid="474" class="child_link" href="/list-474-1.shtml">零售业</a></li>
+<li><a itemid="447" class="child_link" href="/list-447-1.shtml">服装纺织业</a></li>
+<li><a itemid="144" class="child_link" href="/list-144-1.shtml">建筑业</a></li>
+<li><a itemid="21" class="child_link" href="/list-21-1.shtml">交通业</a></li>
+<li><a itemid="448" class="child_link" href="/list-448-1.shtml">通信业</a></li>
+<li><a itemid="141" class="child_link" href="/list-141-1.shtml">进出口贸易</a></li>
+<li><a itemid="143" class="child_link" href="/list-143-1.shtml">酒店服务业</a></li>
+<li><a itemid="362" class="child_link" href="/list-362-1.shtml">金融业</a></li>
+<li><a itemid="476" class="child_link" href="/list-476-1.shtml">图书出版</a></li>
+<li><a itemid="477" class="child_link" href="/list-477-1.shtml">文体娱乐业</a></li>
+<li><a itemid="no06" class="child_link" href="/list-no06-1.shtml">传媒江湖</a></li>
+</ul>
+<ul class="nav_child"><li class="child_hd"><span class="child_name">企业</span></li>
+<li><a itemid="516" class="child_link" href="/list-516-1.shtml">华为世界</a></li>
+<li><a itemid="845" class="child_link" href="/list-845-1.shtml">中兴通讯</a></li>
+<li><a itemid="517" class="child_link" href="/list-517-1.shtml">海南航空</a></li>
+<li><a itemid="863" class="child_link" href="/list-863-1.shtml">富士康</a></li>
+<li><a itemid="857" class="child_link" href="/list-857-1.shtml">国美</a></li>
+<li><a itemid="858" class="child_link" href="/list-858-1.shtml">苏宁</a></li>
+<li><a itemid="859" class="child_link" href="/list-859-1.shtml">沃尔玛</a></li>
+<li><a itemid="849" class="child_link" href="/list-849-1.shtml">中国石化油</a></li>
+<li><a itemid="860" class="child_link" href="/list-860-1.shtml">中国人寿</a></li>
+<li><a itemid="861" class="child_link" href="/list-861-1.shtml">国家电网</a></li>
+</ul>
+</div>
+<div class="nav_child_box" _stat="/stat/bbs/block/左侧导航">
+<ul class="nav_child"><li class="child_hd"><span class="child_name">综合</span></li>
+<li><a itemid="university" class="child_link" href="/list-university-1.shtml">我的大学</a></li>
+<li><a itemid="70" class="child_link" href="/list-70-1.shtml">铅笔森林</a></li>
+<li><a itemid="middleschool" class="child_link" href="/list-middleschool-1.shtml">中学时代</a></li>
+<li><a itemid="399" class="child_link" href="/list-399-1.shtml">青涩情怀</a></li>
+<li><a itemid="375" class="child_link" href="/list-375-1.shtml">时尚乐院</a></li>
+<li><a itemid="401" class="child_link" href="/list-401-1.shtml">校园歌曲</a></li>
+</ul>
+<ul class="nav_child"><li class="child_hd"><span class="child_name">高校直通车</span></li>
+<li><a itemid="1108" class="child_link" href="/list-1108-1.shtml">北京大学</a></li>
+<li><a itemid="1109" class="child_link" href="/list-1109-1.shtml">清华大学</a></li>
+<li><a itemid="370" class="child_link" href="/list-370-1.shtml">浙江大学</a></li>
+<li><a itemid="1110" class="child_link" href="/list-1110-1.shtml">上海交大</a></li>
+<li><a itemid="371" class="child_link" href="/list-371-1.shtml">复旦大学</a></li>
+<li><a itemid="372" class="child_link" href="/list-372-1.shtml">南京大学</a></li>
+<li><a itemid="579" class="child_link" href="/list-579-1.shtml">武汉大学</a></li>
+<li><a itemid="5210" class="child_link" href="/list-5210-1.shtml">四川大学</a></li>
+<li><a itemid="730" class="child_link" href="/list-730-1.shtml">中山大学</a></li>
+<li><a itemid="732" class="child_link" href="/list-732-1.shtml">中山大学校友</a></li>
+<li><a itemid="382" class="child_link" href="/list-382-1.shtml">哈工大</a></li>
+</ul>
+</div>
+<div class="nav_child_box" _stat="/stat/bbs/block/左侧导航">
+<ul class="nav_child"><li><a itemid="907" class="child_link" href="/list-907-1.shtml">敢问敢答</a></li>
+<li><a itemid="spirit" class="child_link" href="/list-spirit-1.shtml">心灵热线</a></li>
+<li><a itemid="1147" class="child_link" href="/list-1147-1.shtml">寻医问药</a></li>
+<li><a itemid="105" class="child_link" href="/list-105-1.shtml">未知学院</a></li>
+</ul>
+</div>
+<div class="line">&nbsp;</div>
+<div class="nav_child_box" style="display:block;" _service="1" _stat="/stat/bbs/block/左侧导航">
+<ul class="nav_child"><li class="child_hd"><span class="child_name">社区服务</span></li>
+<li><a itemid="844" class="child_link" href="/list-844-1.shtml">社区公告</a></li>
+<li><a itemid="apply" class="child_link" href="/list-apply-1.shtml">建议申请</a></li>
+<li><a itemid="complaint" class="child_link" href="/list-complaint-1.shtml">用户投诉</a></li>
+<li><a itemid="777" class="child_link" href="/list-777-1.shtml">上诉申诉</a></li>
+<li><a itemid="408" class="child_link" href="/list-discuss-1.shtml">议事广场</a></li>
+<li><a itemid="408" class="child_link" href="/list-408-1.shtml">社区帮助</a></li>
+<li><a class="child_link" href="http://bbs.tianya.cn/bbs_user_search.jsp">用户搜索</a></li>
+<li><a itemid="797" class="child_link" href="/list-797-1.shtml">天涯实验场</a></li>
+<li><a itemid="no110" class="child_link" href="/list-no110-1.shtml">网罗天下</a></li>
+</ul>
+</div>
+
+</div>
+        </div>
+        <div id="right">
+			
+	<div id="q_button_180_90_1" data-ads-order="02" class="banner-img-mb10 ads-loc-holder"><!--180*90小图--></div>
+	
+	
+
+
+
+
+
+
+
+
+
+	
+	<!-- 右侧文字链广告 -->
+	<div id="bbs_right_textAd" class="section">
+		<div class="hd clearfix"><h2>推荐动态</h2></div>
+		<div class="bd" style="">
+		    <ul class="text-list" style="margin-bottom: 5px;">
+		        <li><a class="ads-loc-holder" data-ads-order="36" target="_blank"></a></li>
+			<li><a class="ads-loc-holder" data-ads-order="37" target="_blank"></a></li>
+			<li><a class="ads-loc-holder" data-ads-order="38" target="_blank"></a></li>
+			<li><a class="ads-loc-holder" data-ads-order="39" target="_blank"></a></li>
+			<li><a class="ads-loc-holder" data-ads-order="40" target="_blank"></a></li>
+			<li><a class="ads-loc-holder" data-ads-order="41" target="_blank"></a></li>
+			<li><a class="ads-loc-holder" data-ads-order="42" target="_blank"></a></li>
+			<li><a class="ads-loc-holder" data-ads-order="43" target="_blank"></a></li>
+			<li><a class="ads-loc-holder" data-ads-order="44" target="_blank"></a></li>
+			<li><a class="ads-loc-holder" data-ads-order="45" target="_blank"></a></li>
+		    </ul>
+		</div>
+		<div class="ft"><img src="http://801.tianya.cn/2015/leftbottom.png"></div>
+	</div>
+	
+	<!--新增广告位 20170713-->
+	<div data-ads-order="15" class="section ads-loc-holder"></div>
+	
+	<!--180*150中图-->
+	<div id="mod-pic-toggle-ad" data-ads-order="03" class="section ads-loc-holder"></div>
+	
+	<!-- 天涯商家自助 -->
+	<div id="ad_business_box" class="clearfix"></div>
+	
+	<!--热门标签-->
+	<div id="q_button_180_300" data-ads-order="04" class="banner-img-mb10 ads-loc-holder"></div>
+	
+	<!--版主推荐-->
+	
+	<div data-ads-order="34" class="section ads-loc-holder"></div>
+	
+	<!--同城话题-->
+	<!--div id="right_star_bbs" class="section"></div-->
+	
+	<!--180*300大图-->
+	<div id="ad_hot_sales" class="section ads-loc-holder" data-ads-order="12" ></div>
+	<div id="ad_biz_sales" class="section"></div>
+	<div id="travel_tuijian"></div>
+	<!-- 精品楼盘 -->
+	<div id="q_jplp_180_390" class="banner-img-mb10 ads-loc-holder" data-ads-order="13"></div>
+	<!--180*150中图-->
+	<div id="q_button_180_150_1" data-ads-order="05" class="banner-img-mb10 ads-loc-holder"></div>
+	<div id="q_button_180_300_2" data-ads-order="10" class="banner-img-mb10 ads-loc-holder"></div>
+
+        </div>
+        <div id="main">			
+        	<div class="clearfix">
+        		<div id="q_topbanner_685_90_additional" class="banner-img-mb10 ad-additional" _nodispaly="true"><!--宽屏补充广告位--></div>
+        		<div id="q_topbanner_685_90" data-ads-order="01" class="banner-img-mb10 ads-loc-holder clearfix" data-ads-url-type="1"><!--顶部通栏广告--></div>
+        	</div>
+			
+			
+			
+			
+				
+					<div class="headlines">
+				
+				<div class="location clearfix">
+					<div class="text"><strong>学术中国</strong>
+					
+						<a title="关注本版" id="block_join_btn" href="javascript:void(0);">关注本版</a>
+					
+					</div>
+					<div class="bbs-powers js-power">
+					
+						<a href="javascript:;" class="fred" id="banzhu_apply_link">申请斑竹</a>
+					
+					</div>
+					
+					<div class="data-count">
+						<span title="43745">主帖数：4万</span>
+						<span title="365770">回帖数：36万</span>  
+					</div>
+				</div>
+				
+				<!--tab 切换开始-->
+				<div id="headlines-tab">
+					<!--tab 切换btn-->
+					<ul class="location-tabs">
+						
+						
+						<li class="cur">本版置顶</li>
+						<li>本版介绍</li>
+						
+					</ul>
+					
+					
+
+
+
+
+
+
+
+
+
+
+<div class="wrap-1 mt5 clearfix">
+	<div class="wrap-bd clearfix">
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		<div id="main_touban" class="touban-hot wrap-bd-in clearfix">
+			
+			<div class="touban-pic">
+				<div class="mod-pic-toggle ads-loc-holder" data-ads-order="14">
+					<ul class="mod-pic-imgs" _stat="/stat/bbs/list/置顶">
+						
+						<li>
+                			<a href="http://bbs.tianya.cn/post-666-32226-1.shtml" target="_blank">
+                				<img src="http://img3.laibafile.cn/p/l/180670341.jpg" />
+                			</a>
+                		</li>
+                		
+						<li>
+                			<a href="http://bbs.tianya.cn/post-666-32211-1.shtml" target="_blank">
+                				<img src="http://img3.laibafile.cn/p/l/180733313.jpg" />
+                			</a>
+                		</li>
+                		
+						<li>
+                			<a href="http://bbs.tianya.cn/post-666-32108-1.shtml" target="_blank">
+                				<img src="http://img3.laibafile.cn/p/l/180669990.jpg" />
+                			</a>
+                		</li>
+                		
+						<li>
+                			<a href="http://bbs.tianya.cn/post-666-32187-1.shtml" target="_blank">
+                				<img src="http://img3.laibafile.cn/p/l/180669877.jpg" />
+                			</a>
+                		</li>
+                		
+					</ul>
+					<div class="mode-pic-guide-bg"></div>
+                	<div class="mod-pic-guide clearfix">
+                		<div class="mod-pic-number">
+                			
+                				
+                					<a href="javascript:" class="on">1</a>
+                				
+                				
+                			
+                				
+                				
+                					<a href="javascript:" class="">2</a>
+                				
+                			
+                				
+                				
+                					<a href="javascript:" class="">3</a>
+                				
+                			
+                				
+                				
+                					<a href="javascript:" class="">4</a>
+                				
+                			
+                		</div>
+                		<ul class="mod-pic-title">
+                			
+							<li>
+								<a href="http://bbs.tianya.cn/post-666-32226-1.shtml" target="_blank">
+									蓝江：《小万神殿》
+								</a>
+							</li>          			
+							
+							<li>
+								<a href="http://bbs.tianya.cn/post-666-32211-1.shtml" target="_blank">
+									国家基础能力研究
+								</a>
+							</li>          			
+							
+							<li>
+								<a href="http://bbs.tianya.cn/post-666-32108-1.shtml" target="_blank">
+									【五四运动95周年】
+								</a>
+							</li>          			
+							
+							<li>
+								<a href="http://bbs.tianya.cn/post-666-32187-1.shtml" target="_blank">
+									《新诸子论坛》第13期
+								</a>
+							</li>          			
+							
+                		</ul>
+                	</div>
+				</div>
+			</div>
+			
+			<div class="touban-guide clearfix" >
+				 
+				 
+				 <h2 class="touban-center" _stat="/stat/bbs/list/置顶">
+				 	<a href="http://bbs.tianya.cn/post-666-32198-1.shtml" target="_blank">
+				 		秋风任锋柳河东：文庙论道
+				 	</a>
+				 </h2>
+				 
+				 
+				 <ul class="touban-side" _stat="/stat/bbs/list/置顶">
+				 	
+				 	<li>
+				 		<a id="q_suning_title_1" href="http://bbs.tianya.cn/post-666-39965-1.shtml" target="_blank">
+				 			以《老子》解读东西方文明—新山河岁月
+				 		</a>
+				 	</li>
+				 	
+				 	<li>
+				 		<a id="q_suning_title_2" href="http://bbs.tianya.cn/post-666-32087-1.shtml" target="_blank">
+				 			洪范：洛书的天文考古学依据
+				 		</a>
+				 	</li>
+				 	
+				 	<li>
+				 		<a id="q_suning_title_3" href="http://bbs.tianya.cn/post-666-32225-1.shtml" target="_blank">
+				 			袁名泽：科哲视阈下的象数学
+				 		</a>
+				 	</li>
+				 	
+				 	<li>
+				 		<a id="q_suning_title_4" href="http://bbs.tianya.cn/post-666-32246-1.shtml" target="_blank">
+				 			孙力舟：克里米亚鞑靼人简史
+				 		</a>
+				 	</li>
+				 	
+				 	<li>
+				 		<a id="q_suning_title_5" href="http://bbs.tianya.cn/post-666-32227-1.shtml" target="_blank">
+				 			周绍刚：民国的内政与外事
+				 		</a>
+				 	</li>
+				 	
+				 	<li>
+				 		<a id="q_suning_title_6" href="http://bbs.tianya.cn/post-666-32097-1.shtml" target="_blank">
+				 			朱鲁：汉语言揭秘巴别塔天机
+				 		</a>
+				 	</li>
+				 	
+				 	<li>
+				 		<a id="q_suning_title_7" href="http://bbs.tianya.cn/post-666-32209-1.shtml" target="_blank">
+				 			徐文涛：自觉的生命史观
+				 		</a>
+				 	</li>
+				 	
+				 	<li>
+				 		<a id="q_suning_title_8" href="http://bbs.tianya.cn/post-666-32216-1.shtml" target="_blank">
+				 			对日民事索赔的法理依据
+				 		</a>
+				 	</li>
+				 	
+				 	
+				 	
+				 </ul>
+			</div>
+		</div>
+		
+		
+		
+		
+		
+		
+		<div id="q_text_6_14">
+			<div class="main_xiangguan2">
+				<ul style="overflow:hidden;">
+					<li class="list-item cf">
+						<span class="name">广告：</span>
+						<div class="item_box">
+							<a href="#" class="item ads-loc-holder" data-ads-order="31" target="_blank" style="color:red;"></a>
+							<a href="#" class="item ads-loc-holder" data-ads-order="32" target="_blank" style="color:red;"></a>
+							<a href="#" class="item ads-loc-holder" data-ads-order="33" target="_blank" style="color:red;"></a>
+						</div>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
+					
+					<div class="wrap-1 mt5 clearfix" style="display:none">
+						<!--tab 切换div： 本版介绍-->
+						<div class="wrap-bd clearfix">
+							
+							<div class="section-notice clearfix ">
+								<ul class="touban-side clearfix">
+									
+									
+										
+										<li><a title="学术中国：视频讲座汇总" target="_blank" href="http://bbs.tianya.cn/post-666-26541-1.shtml">学术中国：视频讲座汇总</a></li>
+										
+										
+									
+										
+										<li><a title="学术中国：置顶文章全备案" target="_blank" href="http://bbs.tianya.cn/post-666-23901-1.shtml">学术中国：置顶文章全备案</a></li>
+										
+										
+									
+										
+										<li><a title="人文社科学术讲座公告" target="_blank" href="http://bbs.tianya.cn/post-666-25500-1.shtml">人文社科学术讲座公告</a></li>
+										
+										
+									
+										
+										<li><a title="学术中国宗旨" target="_blank" href="http://www.tianya.cn/techforum/content/666/280.shtml">学术中国宗旨</a></li>
+										
+										
+								</ul>
+							</div>
+							
+							<div class="block-intro">
+								<p><strong>本版介绍：</strong>人文社会－－-社会观察，世象百态，民间的疾苦与欢乐，体现本坛人道主义的人文关怀精神。<br>经典论说－－－－思想史上不朽的理论学说，请你评述与梳理<br>思考中国－－－－变革中的中国现状观察，请用学理的角度分析<br>大师研究－－－－思想史的的大师与巨匠，他们的生平与思想成就<br>焦点论争－－－－介绍当今或思想史上的学术争论<br>文学批评－－－－文艺理论和文学批评，这也是学术<br>历史思考－－－－历史学理论、历史风云人物和事件，任你述说<br>论文求助－－－－供学人发论文稿求教<br>学术求助－－－－供学子发理论问题求教<br></p>
+								<p><strong>开版时间：</strong>2007年03月21日</p>
+							</div>
+							
+						</div>
+					</div>
+				</div>
+			</div>
+			
+			<div class="moderator" _stat="/stat/bbs/list/版主">
+				斑竹：<a href="http://www.tianya.cn/1591100" target="_blank" title="离线">凯华<span class="ico-gray"></span></a><a href="http://www.tianya.cn/1421173" target="_blank" title="离线">枯荷雨声<span class="ico-gray"></span></a><a href="http://www.tianya.cn/28391166" target="_blank" title="离线">成康之治<span class="ico-gray"></span></a><a href="http://www.tianya.cn/15167804" target="_blank" title="离线">某山遗民<span class="ico-gray"></span></a>特邀：<a href="http://www.tianya.cn/9642257" target="_blank" title="离线">翟振明<span class="ico-gray"></span></a>			
+			</div>
+			<div data-ads-order="35" class="banner-img-mb10 ads-loc-holder"><!--全站通发论坛列表页列表上通栏广告670*70--></div>
+			<div class="bbs-type">
+				<div class="tab-list clearfix">
+					<ul class="clearfix">
+						<li class="curr"><a href="/list-666-1.shtml" >默认</a></li>
+						<li><a href="/list.jsp?item=666&order=1" _stat="/stat/bbs/list/最新发表" rel="nofollow">最新</a></li>
+						<li><a href="/list.jsp?item=666&grade=1&order=1" _stat="/stat/bbs/list/精品文章" rel="nofollow">精品</a></li>
+						
+							<li><a href="/list.jsp?item=666&sub=11" _stat="/stat/bbs/list/问答" rel="nofollow">问答</a></li>
+						
+						
+						
+							<li><a href="/list.jsp?item=666&sub=12" _stat="/stat/bbs/list/版务" rel="nofollow">版务</a></li>
+						
+						
+						
+						<li class="more">
+			                <a href="#">更多</a>
+			                <dl class="clearfix more-tab-box">
+			                	
+			                    	<dd><a href="/list.jsp?item=666&grade=3&order=1" _stat="/stat/bbs/list/排行" rel="nofollow">排行</a></dd>
+			                    
+			                    <dd><a href="/list.jsp?item=666&grade=4" _stat="/stat/bbs/list/人物" rel="nofollow">人物</a></dd>
+			                    <dd><a href="/list.jsp?item=666&grade=5" _stat="/stat/bbs/list/成员" rel="nofollow">成员</a></dd>
+			                </dl>
+			            </li>
+			            
+			            
+				            <li class="float-li">
+				            	<a href="compose.jsp?item=666&sub=%E5%85%A8%E9%83%A8" class="btn-gray btn-post">
+				            		
+										发帖
+									
+								</a>
+							</li>
+							<li class="float-li fold-li">
+								<div class="btn-list" id="bbs_btn_list">
+									<a href="compose.jsp?item=666&module=1"><span class="arrow">提问</span></a>
+									<a href="javascript:void(0);" class="btn-reward hide"><span>悬赏</span></a>
+								</div>
+							</li>
+						
+						
+						<li class="float-li"><a href="/list.jsp?item=666&grade=0&order=2&sub=0" class="btn-gray">刷新</a></li>
+
+						<li class="top-search clearfix">
+							<form action="/list.jsp?item=666" method="get" id="bbs_type_search">
+								<input type="submit" class="top-search-submit" value="">
+								<input name="item" type="hidden" value="666">
+								<input name="grade" type="hidden" value="0">
+								<input name="order" type="hidden" value="1">
+								<input name="su" type="hidden" value="0">
+								<input name="k" type="text" class="top-search-key off" value="" autocomplete="off">
+							</form>
+						</li>
+					</ul>
+				</div>
+				<div class="type-list" _stat="/stat/bbs/list/版块分类">
+					
+						全部\<a href="/list.jsp?item=666&sub=1" rel="nofollow">大师经典</a>\<a href="/list.jsp?item=666&sub=2" rel="nofollow">焦点论争</a>\<a href="/list.jsp?item=666&sub=3" rel="nofollow">人文社会</a>\<a href="/list.jsp?item=666&sub=4" rel="nofollow">文艺批评</a>\<a href="/list.jsp?item=666&sub=5" rel="nofollow">历史思考</a>\<a href="/list.jsp?item=666&sub=6" rel="nofollow">信仰修真</a>\<a href="/list.jsp?item=666&sub=7" rel="nofollow">原创批判</a>\<a href="/list.jsp?item=666&sub=8" rel="nofollow">学术资讯</a>\<a href="/list.jsp?item=666&sub=9" rel="nofollow">学术互助</a>\<a href="/list.jsp?item=666&sub=10" rel="nofollow">其他</a>
+					
+					<!--至赌坊页面 增加-->
+					
+				</div>
+				
+			</div>	
+			<div class="mt5" >
+				
+				
+				
+				
+				
+				
+					<table width="100%" border="0" cellspacing="0" cellpadding="0" class="tab-bbs-list tab-bbs-list-2">
+						<colgroup>
+							
+								<col class="col-title" />
+								<col class="" />
+								<col class="" />
+								<col class="" />
+								<col class="col-date" />
+							
+						</colgroup>
+					<tbody>
+						<tr>
+						
+							<th scope="col">&nbsp;标题</th>
+							<th scope="col">作者</th>
+							<th scope="col">点击</th>
+							<th scope="col">回复</th>
+							<th scope="col">回复时间</th>
+						
+						</tr>
+					</tbody>
+				
+
+				<tbody>
+				<tr class="bg">			
+					<td class="td-title faceblue">
+						<span class="face" title="普通帖">
+							
+						</span>
+						<a href="/post-666-43552-1.shtml" target="_blank">
+							作为北大博士，我为何坚决不写SCI论文？
+						</a>
+					</td> 
+					<td><a href="http://www.tianya.cn/131536356" target="_blank" class="author">九年博士</a></td>
+					<td>627</td>
+					<td>90</td>
+					<td title="2018-02-02 08:41">02-02 08:41</td>
+				</tr>
+			
+				<tr>			
+					<td class="td-title faceblue">
+						<span class="face" title="普通帖">
+							
+						</span>
+						<a href="/post-666-43649-1.shtml" target="_blank">
+							麟剑《人类源流史》：南亚民族（长篇连载）
+						</a>
+					</td> 
+					<td><a href="http://www.tianya.cn/110155743" target="_blank" class="author">麟剑</a></td>
+					<td>350</td>
+					<td>4</td>
+					<td title="2018-02-02 08:28">02-02 08:28</td>
+				</tr>
+			
+				<tr class="bg">			
+					<td class="td-title faceblue">
+						<span class="face" title="普通帖">
+							
+						</span>
+						<a href="/post-666-43082-1.shtml" target="_blank">
+							西方科学界最严重的误判事件 —质证美国LIGO的“引力波”
+						</a>
+					</td> 
+					<td><a href="http://www.tianya.cn/127817579" target="_blank" class="author">李晓露346</a></td>
+					<td>1536</td>
+					<td>177</td>
+					<td title="2018-02-02 08:10">02-02 08:10</td>
+				</tr>
+			
+				<tr>			
+					<td class="td-title faceblue">
+						<span class="face" title="普通帖">
+							
+						</span>
+						<a href="/post-666-43667-1.shtml" target="_blank">
+							马克思为什么没能写完《资本论》
+						</a>
+					</td> 
+					<td><a href="http://www.tianya.cn/1300371" target="_blank" class="author">刘琅</a></td>
+					<td>1075</td>
+					<td>31</td>
+					<td title="2018-02-02 07:37">02-02 07:37</td>
+				</tr>
+			
+				<tr class="bg">			
+					<td class="td-title faceblue">
+						<span class="face" title="普通帖">
+							
+						</span>
+						<a href="/post-666-43289-1.shtml" target="_blank">
+							超弦理论描绘了怎样的世界图景
+						</a>
+					</td> 
+					<td><a href="http://www.tianya.cn/28946015" target="_blank" class="author">李泽健</a></td>
+					<td>672</td>
+					<td>83</td>
+					<td title="2018-02-01 21:30">02-01 21:30</td>
+				</tr>
+			
+				<tr>			
+					<td class="td-title faceblue">
+						<span class="face" title="普通帖">
+							
+						</span>
+						<a href="/post-666-39060-1.shtml" target="_blank">
+							“儒术”，制约人权之术
+						</a>
+					</td> 
+					<td><a href="http://www.tianya.cn/41210073" target="_blank" class="author">天山石A</a></td>
+					<td>491</td>
+					<td>46</td>
+					<td title="2018-02-01 21:13">02-01 21:13</td>
+				</tr>
+			
+				<tr class="bg">			
+					<td class="td-title faceblue">
+						<span class="face" title="普通帖">
+							
+						</span>
+						<a href="/post-666-22442-1.shtml" target="_blank">
+							《虫居乘语》——解释宇宙，规范人生<span class="art-ico art-ico-3" title="内有5张图片"></span>
+						</a>
+					</td> 
+					<td><a href="http://www.tianya.cn/65661762" target="_blank" class="author">李龙臣</a></td>
+					<td>48434</td>
+					<td>3136</td>
+					<td title="2018-02-01 15:17">02-01 15:17</td>
+				</tr>
+			
+				<tr>			
+					<td class="td-title faceblue">
+						<span class="face" title="普通帖">
+							
+						</span>
+						<a href="/post-666-42999-1.shtml" target="_blank">
+							“同行评议”制度<span class="art-ico art-ico-3" title="内有2张图片"></span>
+						</a>
+					</td> 
+					<td><a href="http://www.tianya.cn/109885059" target="_blank" class="author">弹指123</a></td>
+					<td>220</td>
+					<td>31</td>
+					<td title="2018-02-01 13:26">02-01 13:26</td>
+				</tr>
+			
+				<tr class="bg">			
+					<td class="td-title faceblue">
+						<span class="face" title="普通帖">
+							
+						</span>
+						<a href="/post-666-43646-1.shtml" target="_blank">
+							2018年北京世界哲学大会提交论文——“科学的形而上学”的确立
+						</a>
+					</td> 
+					<td><a href="http://www.tianya.cn/134816647" target="_blank" class="author">新江川王天乓ABC</a></td>
+					<td>268</td>
+					<td>49</td>
+					<td title="2018-02-01 13:07">02-01 13:07</td>
+				</tr>
+			
+				<tr>			
+					<td class="td-title faceblue">
+						<span class="face" title="普通帖">
+							
+						</span>
+						<a href="/post-666-43206-1.shtml" target="_blank">
+							“子曰”的混帐，混帐的“子曰”（上）
+						</a>
+					</td> 
+					<td><a href="http://www.tianya.cn/41210073" target="_blank" class="author">天山石A</a></td>
+					<td>698</td>
+					<td>91</td>
+					<td title="2018-02-01 11:54">02-01 11:54</td>
+				</tr>
+				</tbody>
+			
+				<tbody>
+				<tr class="bg">			
+					<td class="td-title faceblue">
+						<span class="face" title="普通帖">
+							
+						</span>
+						<a href="/post-666-18086-1.shtml" target="_blank">
+							文化, 文化！
+						</a>
+					</td> 
+					<td><a href="http://www.tianya.cn/41210073" target="_blank" class="author">天山石A</a></td>
+					<td>6582</td>
+					<td>153</td>
+					<td title="2018-02-01 11:52">02-01 11:52</td>
+				</tr>
+			
+				<tr>			
+					<td class="td-title faceblue">
+						<span class="face" title="普通帖">
+							
+						</span>
+						<a href="/post-666-40832-1.shtml" target="_blank">
+							掸去“活着”的尘埃 ——人类资料意识与生存空间理论(连载）<span class="art-ico art-ico-3" title="内有1张图片"></span>
+						</a>
+					</td> 
+					<td><a href="http://www.tianya.cn/121550703" target="_blank" class="author">韩立木</a></td>
+					<td>1513</td>
+					<td>144</td>
+					<td title="2018-02-01 11:50">02-01 11:50</td>
+				</tr>
+			
+				<tr class="bg">			
+					<td class="td-title faceblue">
+						<span class="face" title="普通帖">
+							
+						</span>
+						<a href="/post-666-37808-1.shtml" target="_blank">
+							为什么说儒家都是盗墓贼？
+						</a>
+					</td> 
+					<td><a href="http://www.tianya.cn/41210073" target="_blank" class="author">天山石A</a></td>
+					<td>871</td>
+					<td>50</td>
+					<td title="2018-02-01 11:49">02-01 11:49</td>
+				</tr>
+			
+				<tr>			
+					<td class="td-title faceblue">
+						<span class="face" title="普通帖">
+							
+						</span>
+						<a href="/post-666-43208-1.shtml" target="_blank">
+							“子曰”的混帐，混帐的“子曰”（下）
+						</a>
+					</td> 
+					<td><a href="http://www.tianya.cn/41210073" target="_blank" class="author">天山石A</a></td>
+					<td>543</td>
+					<td>92</td>
+					<td title="2018-02-01 11:46">02-01 11:46</td>
+				</tr>
+			
+				<tr class="bg">			
+					<td class="td-title faceblue">
+						<span class="face" title="普通帖">
+							
+						</span>
+						<a href="/post-666-38997-1.shtml" target="_blank">
+							儒生，招摇过市、弄虚作假之渊源
+						</a>
+					</td> 
+					<td><a href="http://www.tianya.cn/41210073" target="_blank" class="author">天山石A</a></td>
+					<td>575</td>
+					<td>76</td>
+					<td title="2018-02-01 11:41">02-01 11:41</td>
+				</tr>
+			
+				<tr>			
+					<td class="td-title faceblue">
+						<span class="face" title="普通帖">
+							
+						</span>
+						<a href="/post-666-43671-1.shtml" target="_blank">
+							极简科普：什么是“超级蓝血月”(转载)<span class="art-ico art-ico-3" title="内有4张图片"></span><span class="art-ico art-ico-1"></span>
+						</a>
+					</td> 
+					<td><a href="http://www.tianya.cn/135106305" target="_blank" class="author">喵星驻地球办事处</a></td>
+					<td>149</td>
+					<td>1</td>
+					<td title="2018-02-01 09:46">02-01 09:46</td>
+				</tr>
+			
+				<tr class="bg">			
+					<td class="td-title faceblue">
+						<span class="face" title="普通帖">
+							
+						</span>
+						<a href="/post-666-43669-1.shtml" target="_blank">
+							廖承伟 自由源流史（83） 自然论中的思想启蒙
+						</a>
+					</td> 
+					<td><a href="http://www.tianya.cn/105264427" target="_blank" class="author">南宁廖承伟</a></td>
+					<td>10</td>
+					<td>0</td>
+					<td title="2018-02-01 09:04">02-01 09:04</td>
+				</tr>
+			
+				<tr>			
+					<td class="td-title faceblue">
+						<span class="face" title="普通帖">
+							
+						</span>
+						<a href="/post-666-43668-1.shtml" target="_blank">
+							廖承伟 西方思想启蒙运动与自然法思想
+						</a>
+					</td> 
+					<td><a href="http://www.tianya.cn/105264427" target="_blank" class="author">南宁廖承伟</a></td>
+					<td>8</td>
+					<td>0</td>
+					<td title="2018-02-01 08:58">02-01 08:58</td>
+				</tr>
+			
+				<tr class="bg">			
+					<td class="td-title facered">
+						<span class="face" title="原创精品">
+							
+						</span>
+						<a href="/post-666-26471-1.shtml" target="_blank">
+							<font color=maroon>李子：</font>第四次数学危机
+						</a>
+					</td> 
+					<td><a href="http://www.tianya.cn/39411196" target="_blank" class="author">李子ljb</a></td>
+					<td>17606</td>
+					<td>781</td>
+					<td title="2018-02-01 08:13">02-01 08:13</td>
+				</tr>
+			
+				<tr>			
+					<td class="td-title faceblue">
+						<span class="face" title="普通帖">
+							
+						</span>
+						<a href="/post-666-42441-1.shtml" target="_blank">
+							连载：《直方周易》系词   ——赵庚白译注
+						</a>
+					</td> 
+					<td><a href="http://www.tianya.cn/94728909" target="_blank" class="author">赵庚白</a></td>
+					<td>639</td>
+					<td>69</td>
+					<td title="2018-02-01 01:12">02-01 01:12</td>
+				</tr>
+				</tbody>
+			
+				<tbody>
+				<tr class="bg">			
+					<td class="td-title faceblue">
+						<span class="face" title="普通帖">
+							
+						</span>
+						<a href="/post-666-25731-1.shtml" target="_blank">
+							细说周易
+						</a>
+					</td> 
+					<td><a href="http://www.tianya.cn/74632861" target="_blank" class="author">dyzang</a></td>
+					<td>7323</td>
+					<td>469</td>
+					<td title="2018-02-01 00:42">02-01 00:42</td>
+				</tr>
+			
+				<tr>			
+					<td class="td-title facered">
+						<span class="face" title="原创精品">
+							
+						</span>
+						<a href="/post-666-41854-1.shtml" target="_blank">
+							谈谈辩证法
+						</a>
+					</td> 
+					<td><a href="http://www.tianya.cn/1006443" target="_blank" class="author">可爱的甜瓜</a></td>
+					<td>773</td>
+					<td>49</td>
+					<td title="2018-02-01 00:04">02-01 00:04</td>
+				</tr>
+			
+				<tr class="bg">			
+					<td class="td-title facered">
+						<span class="face" title="原创精品">
+							
+						</span>
+						<a href="/post-666-11731-1.shtml" target="_blank">
+							<font color=maroon>定风波：</font>史上十大口水战（未完待续，每周两更）<span class="art-ico art-ico-3" title="内有14张图片"></span>
+						</a>
+					</td> 
+					<td><a href="http://www.tianya.cn/635771" target="_blank" class="author">还是定风波</a></td>
+					<td>62001</td>
+					<td>1203</td>
+					<td title="2018-01-31 13:27">01-31 13:27</td>
+				</tr>
+			
+				<tr>			
+					<td class="td-title faceblue">
+						<span class="face" title="普通帖">
+							
+						</span>
+						<a href="/post-666-43664-1.shtml" target="_blank">
+							关于自私
+						</a>
+					</td> 
+					<td><a href="http://www.tianya.cn/135105661" target="_blank" class="author">撞意联盟</a></td>
+					<td>27</td>
+					<td>0</td>
+					<td title="2018-01-31 11:22">01-31 11:22</td>
+				</tr>
+			
+				<tr class="bg">			
+					<td class="td-title faceblue">
+						<span class="face" title="普通帖">
+							
+						</span>
+						<a href="/post-666-43618-1.shtml" target="_blank">
+							宪法规定：中年人有父母健在不准养宠物！！！<span class="art-ico art-ico-3" title="内有1张图片"></span>
+						</a>
+					</td> 
+					<td><a href="http://www.tianya.cn/1206013" target="_blank" class="author">中国杨神经</a></td>
+					<td>242</td>
+					<td>30</td>
+					<td title="2018-01-31 11:13">01-31 11:13</td>
+				</tr>
+			
+				<tr>			
+					<td class="td-title facered">
+						<span class="face" title="原创精品">
+							
+						</span>
+						<a href="/post-666-38442-1.shtml" target="_blank">
+							<span style="color:#FF0000;">《读庄随记》</span><span class="art-ico art-ico-3" title="内有5张图片"></span>
+						</a>
+					</td> 
+					<td><a href="http://www.tianya.cn/56522499" target="_blank" class="author">廖兮寂</a></td>
+					<td>5848</td>
+					<td>679</td>
+					<td title="2018-01-31 10:56">01-31 10:56</td>
+				</tr>
+			
+				<tr class="bg">			
+					<td class="td-title faceblue">
+						<span class="face" title="普通帖">
+							
+						</span>
+						<a href="/post-666-43604-1.shtml" target="_blank">
+							老子、孔子和马克思哲学的区别
+						</a>
+					</td> 
+					<td><a href="http://www.tianya.cn/82217585" target="_blank" class="author">花红叶绿五月清凉</a></td>
+					<td>843</td>
+					<td>155</td>
+					<td title="2018-01-30 22:29">01-30 22:29</td>
+				</tr>
+			
+				<tr>			
+					<td class="td-title faceblue">
+						<span class="face" title="普通帖">
+							
+						</span>
+						<a href="/post-666-41821-1.shtml" target="_blank">
+							中华传统文化的最新研究与成果系列连载<span class="art-ico art-ico-3" title="内有135张图片"></span>
+						</a>
+					</td> 
+					<td><a href="http://www.tianya.cn/121629316" target="_blank" class="author">于雁鸣</a></td>
+					<td>2942</td>
+					<td>212</td>
+					<td title="2018-01-30 22:13">01-30 22:13</td>
+				</tr>
+			
+				<tr class="bg">			
+					<td class="td-title faceblue">
+						<span class="face" title="普通帖">
+							
+						</span>
+						<a href="/post-666-42739-1.shtml" target="_blank">
+							宇宙的本质(转载)<span class="art-ico art-ico-3" title="内有11张图片"></span>
+						</a>
+					</td> 
+					<td><a href="http://www.tianya.cn/131835773" target="_blank" class="author">六维的宇宙</a></td>
+					<td>1440</td>
+					<td>101</td>
+					<td title="2018-01-30 19:07">01-30 19:07</td>
+				</tr>
+			
+				<tr>			
+					<td class="td-title faceblue">
+						<span class="face" title="普通帖">
+							
+						</span>
+						<a href="/post-666-43343-1.shtml" target="_blank">
+							如何用哲学的眼光看待英国的崛起
+						</a>
+					</td> 
+					<td><a href="http://www.tianya.cn/121550703" target="_blank" class="author">韩立木</a></td>
+					<td>136</td>
+					<td>10</td>
+					<td title="2018-01-30 11:35">01-30 11:35</td>
+				</tr>
+				</tbody>
+			
+				<tbody>
+				<tr class="bg">			
+					<td class="td-title facered">
+						<span class="face" title="原创精品">
+							
+						</span>
+						<a href="/post-666-43655-1.shtml" target="_blank">
+							华严宗的真理
+						</a>
+					</td> 
+					<td><a href="http://www.tianya.cn/1006443" target="_blank" class="author">可爱的甜瓜</a></td>
+					<td>68</td>
+					<td>2</td>
+					<td title="2018-01-29 23:42">01-29 23:42</td>
+				</tr>
+			
+				<tr>			
+					<td class="td-title faceblue">
+						<span class="face" title="普通帖">
+							
+						</span>
+						<a href="/post-666-43550-1.shtml" target="_blank">
+							重大突破!数学史上最著名的猜想有望取得新突破!宇宙的终极奥义可能也蕴<span class="art-ico art-ico-3" title="内有13张图片"></span>
+						</a>
+					</td> 
+					<td><a href="http://www.tianya.cn/71637606" target="_blank" class="author">华圈圈</a></td>
+					<td>455</td>
+					<td>61</td>
+					<td title="2018-01-29 23:24">01-29 23:24</td>
+				</tr>
+			
+				<tr class="bg">			
+					<td class="td-title facered">
+						<span class="face" title="原创精品">
+							
+						</span>
+						<a href="/post-666-28004-1.shtml" target="_blank">
+							商羯罗《自我知识》辨析(转载)
+						</a>
+					</td> 
+					<td><a href="http://www.tianya.cn/1006443" target="_blank" class="author">可爱的甜瓜</a></td>
+					<td>2617</td>
+					<td>124</td>
+					<td title="2018-01-29 23:09">01-29 23:09</td>
+				</tr>
+			
+				<tr>			
+					<td class="td-title faceblue">
+						<span class="face" title="普通帖">
+							
+						</span>
+						<a href="/post-666-39501-1.shtml" target="_blank">
+							“见仁见知”，是学术造假、信口雌黄的遮羞布
+						</a>
+					</td> 
+					<td><a href="http://www.tianya.cn/41210073" target="_blank" class="author">天山石A</a></td>
+					<td>259</td>
+					<td>13</td>
+					<td title="2018-01-29 22:28">01-29 22:28</td>
+				</tr>
+			
+				<tr class="bg">			
+					<td class="td-title faceblue">
+						<span class="face" title="普通帖">
+							
+						</span>
+						<a href="/post-666-19159-1.shtml" target="_blank">
+							“九五”之尊与“太监文化”
+						</a>
+					</td> 
+					<td><a href="http://www.tianya.cn/41210073" target="_blank" class="author">天山石A</a></td>
+					<td>5068</td>
+					<td>90</td>
+					<td title="2018-01-29 22:25">01-29 22:25</td>
+				</tr>
+			
+				<tr>			
+					<td class="td-title faceblue">
+						<span class="face" title="普通帖">
+							
+						</span>
+						<a href="/post-666-19079-1.shtml" target="_blank">
+							<font color=maroon>天山石：</font>中国，“脑残思维” 与“论语文化”
+						</a>
+					</td> 
+					<td><a href="http://www.tianya.cn/41210073" target="_blank" class="author">天山石A</a></td>
+					<td>8954</td>
+					<td>228</td>
+					<td title="2018-01-29 22:23">01-29 22:23</td>
+				</tr>
+			
+				<tr class="bg">			
+					<td class="td-title faceblue">
+						<span class="face" title="普通帖">
+							
+						</span>
+						<a href="/post-666-38818-1.shtml" target="_blank">
+							孔儒唯“术”，及“道”者鲜（上）
+						</a>
+					</td> 
+					<td><a href="http://www.tianya.cn/41210073" target="_blank" class="author">天山石A</a></td>
+					<td>229</td>
+					<td>22</td>
+					<td title="2018-01-29 22:21">01-29 22:21</td>
+				</tr>
+			
+				<tr>			
+					<td class="td-title faceblue">
+						<span class="face" title="普通帖">
+							
+						</span>
+						<a href="/post-666-38111-1.shtml" target="_blank">
+							是圣？是奴？中华大地是怎样滋生奴才的
+						</a>
+					</td> 
+					<td><a href="http://www.tianya.cn/41210073" target="_blank" class="author">天山石A</a></td>
+					<td>793</td>
+					<td>56</td>
+					<td title="2018-01-29 22:17">01-29 22:17</td>
+				</tr>
+			
+				<tr class="bg">			
+					<td class="td-title faceblue">
+						<span class="face" title="普通帖">
+							
+						</span>
+						<a href="/post-666-17303-1.shtml" target="_blank">
+							<font color=maroon>天山石专栏：</font>儒家“仁”的本意
+						</a>
+					</td> 
+					<td><a href="http://www.tianya.cn/41210073" target="_blank" class="author">天山石A</a></td>
+					<td>3283</td>
+					<td>95</td>
+					<td title="2018-01-29 22:09">01-29 22:09</td>
+				</tr>
+			
+				<tr>			
+					<td class="td-title faceblue">
+						<span class="face" title="普通帖">
+							
+						</span>
+						<a href="/post-666-19644-1.shtml" target="_blank">
+							关于《文化，文化》中四个假设的诠释
+						</a>
+					</td> 
+					<td><a href="http://www.tianya.cn/41210073" target="_blank" class="author">天山石A</a></td>
+					<td>1608</td>
+					<td>39</td>
+					<td title="2018-01-29 22:08">01-29 22:08</td>
+				</tr>
+				</tbody>
+			
+				<tbody>
+				<tr class="bg">			
+					<td class="td-title faceblue">
+						<span class="face" title="普通帖">
+							
+						</span>
+						<a href="/post-666-35518-1.shtml" target="_blank">
+							“天人合一”的理论基础
+						</a>
+					</td> 
+					<td><a href="http://www.tianya.cn/41210073" target="_blank" class="author">天山石A</a></td>
+					<td>455</td>
+					<td>18</td>
+					<td title="2018-01-29 21:57">01-29 21:57</td>
+				</tr>
+			
+				<tr>			
+					<td class="td-title faceblue">
+						<span class="face" title="普通帖">
+							
+						</span>
+						<a href="/post-666-35519-1.shtml" target="_blank">
+							“天人合一”小故事
+						</a>
+					</td> 
+					<td><a href="http://www.tianya.cn/41210073" target="_blank" class="author">天山石A</a></td>
+					<td>923</td>
+					<td>14</td>
+					<td title="2018-01-29 21:53">01-29 21:53</td>
+				</tr>
+			
+				<tr class="bg">			
+					<td class="td-title faceblue">
+						<span class="face" title="普通帖">
+							
+						</span>
+						<a href="/post-666-35502-1.shtml" target="_blank">
+							当人心中有“神”有“圣”时，将势必
+						</a>
+					</td> 
+					<td><a href="http://www.tianya.cn/41210073" target="_blank" class="author">天山石A</a></td>
+					<td>314</td>
+					<td>32</td>
+					<td title="2018-01-29 21:50">01-29 21:50</td>
+				</tr>
+			
+				<tr>			
+					<td class="td-title faceblue">
+						<span class="face" title="普通帖">
+							
+						</span>
+						<a href="/post-666-43647-1-1.shtml" target="_blank">
+							量子力学是什么?<span class="art-ico art-ico-9"></span>
+						</a>
+					</td> 
+					<td><a href="http://www.tianya.cn/134977833" target="_blank" class="author">小南海保安</a></td>
+					<td>77</td>
+					<td>5</td>
+					<td title="2018-01-29 21:45">01-29 21:45</td>
+				</tr>
+			
+				<tr class="bg">			
+					<td class="td-title faceblue">
+						<span class="face" title="普通帖">
+							
+						</span>
+						<a href="/post-666-43333-1.shtml" target="_blank">
+							易传形成之谜（易学五大谜团之五）
+						</a>
+					</td> 
+					<td><a href="http://www.tianya.cn/66058467" target="_blank" class="author">大道横空d</a></td>
+					<td>605</td>
+					<td>52</td>
+					<td title="2018-01-29 12:55">01-29 12:55</td>
+				</tr>
+			
+				<tr>			
+					<td class="td-title faceblue">
+						<span class="face" title="普通帖">
+							
+						</span>
+						<a href="/post-666-43650-1-1.shtml" target="_blank">
+							厚德载物怎理解？<span class="art-ico art-ico-9"></span>
+						</a>
+					</td> 
+					<td><a href="http://www.tianya.cn/132636574" target="_blank" class="author">始终难守2017</a></td>
+					<td>49</td>
+					<td>0</td>
+					<td title="2018-01-29 11:10">01-29 11:10</td>
+				</tr>
+			
+				<tr class="bg">			
+					<td class="td-title faceblue">
+						<span class="face" title="普通帖">
+							
+						</span>
+						<a href="/post-666-41088-1.shtml" target="_blank">
+							自然界、社会运动发展的根本原理——相同和相异
+						</a>
+					</td> 
+					<td><a href="http://www.tianya.cn/62092318" target="_blank" class="author">wxyabc2012</a></td>
+					<td>939</td>
+					<td>80</td>
+					<td title="2018-01-29 10:36">01-29 10:36</td>
+				</tr>
+			
+				<tr>			
+					<td class="td-title faceblue">
+						<span class="face" title="普通帖">
+							
+						</span>
+						<a href="/post-666-43069-1.shtml" target="_blank">
+							曾经看见的现象去哪儿了
+						</a>
+					</td> 
+					<td><a href="http://www.tianya.cn/28946015" target="_blank" class="author">李泽健</a></td>
+					<td>274</td>
+					<td>24</td>
+					<td title="2018-01-29 09:02">01-29 09:02</td>
+				</tr>
+			
+				<tr class="bg">			
+					<td class="td-title faceblue">
+						<span class="face" title="普通帖">
+							
+						</span>
+						<a href="/post-666-43462-1.shtml" target="_blank">
+							参投24届世界哲学论文：《学以成人之华夏智慧道、法、术精义论》
+						</a>
+					</td> 
+					<td><a href="http://www.tianya.cn/6318370" target="_blank" class="author">李琳玉壶</a></td>
+					<td>305</td>
+					<td>36</td>
+					<td title="2018-01-29 05:28">01-29 05:28</td>
+				</tr>
+			
+				<tr>			
+					<td class="td-title faceblue">
+						<span class="face" title="普通帖">
+							
+						</span>
+						<a href="/post-666-43390-1.shtml" target="_blank">
+							“灭人欲存天理”乃传统文化之蛊
+						</a>
+					</td> 
+					<td><a href="http://www.tianya.cn/121550703" target="_blank" class="author">韩立木</a></td>
+					<td>123</td>
+					<td>8</td>
+					<td title="2018-01-28 12:05">01-28 12:05</td>
+				</tr>
+				</tbody>
+			
+				<tbody>
+				<tr class="bg">			
+					<td class="td-title faceblue">
+						<span class="face" title="普通帖">
+							
+						</span>
+						<a href="/post-666-43572-1.shtml" target="_blank">
+							新编《思维学》第一部；思维与生命
+						</a>
+					</td> 
+					<td><a href="http://www.tianya.cn/113919835" target="_blank" class="author">u_113919835</a></td>
+					<td>138</td>
+					<td>23</td>
+					<td title="2018-01-28 09:41">01-28 09:41</td>
+				</tr>
+			
+				<tr>			
+					<td class="td-title faceblue">
+						<span class="face" title="普通帖">
+							
+						</span>
+						<a href="/post-666-43498-1.shtml" target="_blank">
+							麟剑《人类源流史》：西亚民族（长篇连载）
+						</a>
+					</td> 
+					<td><a href="http://www.tianya.cn/110155743" target="_blank" class="author">麟剑</a></td>
+					<td>685</td>
+					<td>31</td>
+					<td title="2018-01-28 09:40">01-28 09:40</td>
+				</tr>
+			
+				<tr class="bg">			
+					<td class="td-title faceblue">
+						<span class="face" title="普通帖">
+							
+						</span>
+						<a href="/post-666-31769-1.shtml" target="_blank">
+							千古谁识汉贾生
+						</a>
+					</td> 
+					<td><a href="http://www.tianya.cn/63829271" target="_blank" class="author">菜九段001</a></td>
+					<td>381</td>
+					<td>8</td>
+					<td title="2018-01-28 08:25">01-28 08:25</td>
+				</tr>
+			
+				<tr>			
+					<td class="td-title facered">
+						<span class="face" title="原创精品">
+							
+						</span>
+						<a href="/post-666-32087-1.shtml" target="_blank">
+							<span style="color:#000000;">洛书：基于天文考古学的知识依据——中国思想结构的知识论证（02）</span><span class="art-ico art-ico-3" title="内有24张图片"></span>
+						</a>
+					</td> 
+					<td><a href="http://www.tianya.cn/28391166" target="_blank" class="author">成康之治</a></td>
+					<td>6000</td>
+					<td>140</td>
+					<td title="2018-01-28 07:48">01-28 07:48</td>
+				</tr>
+			
+				<tr class="bg">			
+					<td class="td-title faceblue">
+						<span class="face" title="普通帖">
+							
+						</span>
+						<a href="/post-666-43138-1.shtml" target="_blank">
+							存在也是存在者
+						</a>
+					</td> 
+					<td><a href="http://www.tianya.cn/109079037" target="_blank" class="author">价值形而上学</a></td>
+					<td>84</td>
+					<td>6</td>
+					<td title="2018-01-27 22:41">01-27 22:41</td>
+				</tr>
+			
+				<tr>			
+					<td class="td-title faceblue">
+						<span class="face" title="普通帖">
+							
+						</span>
+						<a href="/post-666-43639-1.shtml" target="_blank">
+							《梧桐之树》说“道”，论“儒”，谈“考古”。<span class="art-ico art-ico-3" title="内有4张图片"></span>
+						</a>
+					</td> 
+					<td><a href="http://www.tianya.cn/112441019" target="_blank" class="author">梧桐之树</a></td>
+					<td>43</td>
+					<td>5</td>
+					<td title="2018-01-27 22:13">01-27 22:13</td>
+				</tr>
+			
+				<tr class="bg">			
+					<td class="td-title faceblue">
+						<span class="face" title="普通帖">
+							
+						</span>
+						<a href="/post-666-43349-1.shtml" target="_blank">
+							读马克思的书---公有制
+						</a>
+					</td> 
+					<td><a href="http://www.tianya.cn/108427970" target="_blank" class="author">u_108427970</a></td>
+					<td>140</td>
+					<td>20</td>
+					<td title="2018-01-27 22:12">01-27 22:12</td>
+				</tr>
+			
+				<tr>			
+					<td class="td-title faceblue">
+						<span class="face" title="普通帖">
+							
+						</span>
+						<a href="/post-666-42863-1.shtml" target="_blank">
+							哲学 随笔
+						</a>
+					</td> 
+					<td><a href="http://www.tianya.cn/38891167" target="_blank" class="author">材料定额</a></td>
+					<td>716</td>
+					<td>42</td>
+					<td title="2018-01-27 11:28">01-27 11:28</td>
+				</tr>
+			
+				<tr class="bg">			
+					<td class="td-title faceblue">
+						<span class="face" title="普通帖">
+							
+						</span>
+						<a href="/post-666-43521-1.shtml" target="_blank">
+							概念逻辑和推导逻辑（书本稿）
+						</a>
+					</td> 
+					<td><a href="http://www.tianya.cn/45456892" target="_blank" class="author">叶晓锜</a></td>
+					<td>68</td>
+					<td>4</td>
+					<td title="2018-01-27 10:20">01-27 10:20</td>
+				</tr>
+			
+				<tr>			
+					<td class="td-title faceblue">
+						<span class="face" title="普通帖">
+							
+						</span>
+						<a href="/post-666-43502-1.shtml" target="_blank">
+							《周易》通行本卦序数与卦名关联奥秘
+						</a>
+					</td> 
+					<td><a href="http://www.tianya.cn/132659228" target="_blank" class="author">二呀呀</a></td>
+					<td>149</td>
+					<td>9</td>
+					<td title="2018-01-27 09:33">01-27 09:33</td>
+				</tr>
+				</tbody>
+			
+				<tbody>
+				<tr class="bg">			
+					<td class="td-title faceblue">
+						<span class="face" title="普通帖">
+							
+						</span>
+						<a href="/post-666-43350-1.shtml" target="_blank">
+							聊聊《未来简史》。。
+						</a>
+					</td> 
+					<td><a href="http://www.tianya.cn/126712496" target="_blank" class="author">0匿名用户0</a></td>
+					<td>118</td>
+					<td>10</td>
+					<td title="2018-01-26 17:40">01-26 17:40</td>
+				</tr>
+			
+				<tr>			
+					<td class="td-title faceblue">
+						<span class="face" title="普通帖">
+							
+						</span>
+						<a href="/post-666-43272-1.shtml" target="_blank">
+							生产关系决定生产力　　　
+						</a>
+					</td> 
+					<td><a href="http://www.tianya.cn/134110163" target="_blank" class="author">冈本义太郎</a></td>
+					<td>138</td>
+					<td>16</td>
+					<td title="2018-01-26 17:39">01-26 17:39</td>
+				</tr>
+			
+				<tr class="bg">			
+					<td class="td-title faceblue">
+						<span class="face" title="普通帖">
+							
+						</span>
+						<a href="/post-666-43072-1.shtml" target="_blank">
+							麟剑《人类源流史》：中国猿人（连载）<span class="art-ico art-ico-3" title="内有1张图片"></span>
+						</a>
+					</td> 
+					<td><a href="http://www.tianya.cn/110155743" target="_blank" class="author">麟剑</a></td>
+					<td>702</td>
+					<td>23</td>
+					<td title="2018-01-26 17:09">01-26 17:09</td>
+				</tr>
+			
+				<tr>			
+					<td class="td-title faceblue">
+						<span class="face" title="普通帖">
+							
+						</span>
+						<a href="/post-666-43061-1.shtml" target="_blank">
+							麟剑《人类源流史》：古猿（连载）<span class="art-ico art-ico-3" title="内有1张图片"></span>
+						</a>
+					</td> 
+					<td><a href="http://www.tianya.cn/110155743" target="_blank" class="author">麟剑</a></td>
+					<td>667</td>
+					<td>11</td>
+					<td title="2018-01-26 17:08">01-26 17:08</td>
+				</tr>
+			
+				<tr class="bg">			
+					<td class="td-title faceblue">
+						<span class="face" title="普通帖">
+							
+						</span>
+						<a href="/post-666-43096-1.shtml" target="_blank">
+							老田荐文：小岗村究竟存不存在那个红手印契约？(转载)<span class="art-ico art-ico-3" title="内有4张图片"></span>
+						</a>
+					</td> 
+					<td><a href="http://www.tianya.cn/43848648" target="_blank" class="author">敬在田</a></td>
+					<td>169</td>
+					<td>9</td>
+					<td title="2018-01-26 17:06">01-26 17:06</td>
+				</tr>
+			
+				<tr>			
+					<td class="td-title faceblue">
+						<span class="face" title="普通帖">
+							
+						</span>
+						<a href="/post-666-43038-1.shtml" target="_blank">
+							论中医名称《寸口》
+						</a>
+					</td> 
+					<td><a href="http://www.tianya.cn/133044316" target="_blank" class="author">wlqbwb</a></td>
+					<td>98</td>
+					<td>4</td>
+					<td title="2018-01-26 17:06">01-26 17:06</td>
+				</tr>
+			
+				<tr class="bg">			
+					<td class="td-title faceblue">
+						<span class="face" title="普通帖">
+							
+						</span>
+						<a href="/post-666-42970-1.shtml" target="_blank">
+							时空是怎样被“弯曲”的？
+						</a>
+					</td> 
+					<td><a href="http://www.tianya.cn/66428257" target="_blank" class="author">董加耕</a></td>
+					<td>314</td>
+					<td>10</td>
+					<td title="2018-01-26 17:06">01-26 17:06</td>
+				</tr>
+			
+				<tr>			
+					<td class="td-title faceblue">
+						<span class="face" title="普通帖">
+							
+						</span>
+						<a href="/post-666-43220-1.shtml" target="_blank">
+							劳动价值和社会剥削
+						</a>
+					</td> 
+					<td><a href="http://www.tianya.cn/111942361" target="_blank" class="author">u_111942361</a></td>
+					<td>110</td>
+					<td>9</td>
+					<td title="2018-01-26 17:06">01-26 17:06</td>
+				</tr>
+			
+				<tr class="bg">			
+					<td class="td-title faceblue">
+						<span class="face" title="普通帖">
+							
+						</span>
+						<a href="/post-666-42946-1.shtml" target="_blank">
+							撩开当代“诗圣”的神秘面纱
+						</a>
+					</td> 
+					<td><a href="http://www.tianya.cn/47334404" target="_blank" class="author">大方客dfk</a></td>
+					<td>93</td>
+					<td>3</td>
+					<td title="2018-01-26 17:03">01-26 17:03</td>
+				</tr>
+			
+				<tr>			
+					<td class="td-title faceblue">
+						<span class="face" title="普通帖">
+							
+						</span>
+						<a href="/post-666-42940-1.shtml" target="_blank">
+							道德经（注音版）(转载)
+						</a>
+					</td> 
+					<td><a href="http://www.tianya.cn/108220481" target="_blank" class="author">與道合真</a></td>
+					<td>231</td>
+					<td>14</td>
+					<td title="2018-01-26 17:02">01-26 17:02</td>
+				</tr>
+				</tbody>
+			
+				<tbody>
+				<tr class="bg">			
+					<td class="td-title faceblue">
+						<span class="face" title="普通帖">
+							
+						</span>
+						<a href="/post-666-43000-1.shtml" target="_blank">
+							乱解《道德经》第一章，找骂来了。
+						</a>
+					</td> 
+					<td><a href="http://www.tianya.cn/133081344" target="_blank" class="author">joeren2017</a></td>
+					<td>151</td>
+					<td>8</td>
+					<td title="2018-01-26 17:01">01-26 17:01</td>
+				</tr>
+			
+				<tr>			
+					<td class="td-title faceblue">
+						<span class="face" title="普通帖">
+							
+						</span>
+						<a href="/post-666-43332-1.shtml" target="_blank">
+							麟剑《人类源流史》：中华民族（连载）
+						</a>
+					</td> 
+					<td><a href="http://www.tianya.cn/110155743" target="_blank" class="author">麟剑</a></td>
+					<td>565</td>
+					<td>12</td>
+					<td title="2018-01-26 17:01">01-26 17:01</td>
+				</tr>
+			
+				<tr class="bg">			
+					<td class="td-title faceblue">
+						<span class="face" title="普通帖">
+							
+						</span>
+						<a href="/post-666-43004-1.shtml" target="_blank">
+							(网贴)学以成人------ 略析中西方文化的各自特点及其局限和超越(转载)
+						</a>
+					</td> 
+					<td><a href="http://www.tianya.cn/133164011" target="_blank" class="author">ty_观者147</a></td>
+					<td>40</td>
+					<td>4</td>
+					<td title="2018-01-26 17:01">01-26 17:01</td>
+				</tr>
+			
+				<tr>			
+					<td class="td-title faceblue">
+						<span class="face" title="普通帖">
+							
+						</span>
+						<a href="/post-666-43243-1.shtml" target="_blank">
+							说说一本书<span class="art-ico art-ico-3" title="内有3张图片"></span>
+						</a>
+					</td> 
+					<td><a href="http://www.tianya.cn/134140429" target="_blank" class="author">pxtdfs</a></td>
+					<td>45</td>
+					<td>9</td>
+					<td title="2018-01-26 17:00">01-26 17:00</td>
+				</tr>
+			
+				<tr class="bg">			
+					<td class="td-title faceblue">
+						<span class="face" title="普通帖">
+							
+						</span>
+						<a href="/post-666-43576-1.shtml" target="_blank">
+							马怀荣：相同的病理，不同的报告 ——与资中筠女士谈当代中国教育(转载)
+						</a>
+					</td> 
+					<td><a href="http://www.tianya.cn/79195298" target="_blank" class="author">mahuairongqdu</a></td>
+					<td>941</td>
+					<td>4</td>
+					<td title="2018-01-26 17:00">01-26 17:00</td>
+				</tr>
+			
+				<tr>			
+					<td class="td-title faceblue">
+						<span class="face" title="普通帖">
+							
+						</span>
+						<a href="/post-666-43129-1.shtml" target="_blank">
+							龚鹏程丨才子考(转载)
+						</a>
+					</td> 
+					<td><a href="http://www.tianya.cn/99980595" target="_blank" class="author">星QJ</a></td>
+					<td>41</td>
+					<td>4</td>
+					<td title="2018-01-26 16:58">01-26 16:58</td>
+				</tr>
+			
+				<tr class="bg">			
+					<td class="td-title faceblue">
+						<span class="face" title="普通帖">
+							
+						</span>
+						<a href="/post-666-43335-1.shtml" target="_blank">
+							辩证法的本体论意义——辩证体本体论哲学
+						</a>
+					</td> 
+					<td><a href="http://www.tianya.cn/109079037" target="_blank" class="author">价值形而上学</a></td>
+					<td>69</td>
+					<td>6</td>
+					<td title="2018-01-26 16:58">01-26 16:58</td>
+				</tr>
+			
+				<tr>			
+					<td class="td-title faceblue">
+						<span class="face" title="普通帖">
+							
+						</span>
+						<a href="/post-666-43424-1.shtml" target="_blank">
+							新儒家思想之“仁义理智信”
+						</a>
+					</td> 
+					<td><a href="http://www.tianya.cn/134388048" target="_blank" class="author">德知来</a></td>
+					<td>209</td>
+					<td>25</td>
+					<td title="2018-01-26 16:24">01-26 16:24</td>
+				</tr>
+			
+				<tr class="bg">			
+					<td class="td-title faceblue">
+						<span class="face" title="普通帖">
+							
+						</span>
+						<a href="/post-666-42948-1.shtml" target="_blank">
+							篝火：为什么贫穷阶层不出大革命家？(转载)
+						</a>
+					</td> 
+					<td><a href="http://www.tianya.cn/43848648" target="_blank" class="author">敬在田</a></td>
+					<td>351</td>
+					<td>12</td>
+					<td title="2018-01-26 16:18">01-26 16:18</td>
+				</tr>
+			
+				<tr>			
+					<td class="td-title faceblue">
+						<span class="face" title="普通帖">
+							
+						</span>
+						<a href="/post-666-42923-1.shtml" target="_blank">
+							麟剑《人类源流史》：微生物（连载）<span class="art-ico art-ico-3" title="内有1张图片"></span>
+						</a>
+					</td> 
+					<td><a href="http://www.tianya.cn/110155743" target="_blank" class="author">麟剑</a></td>
+					<td>381</td>
+					<td>10</td>
+					<td title="2018-01-26 16:18">01-26 16:18</td>
+				</tr>
+				</tbody>
+			
+		
+		</table>	
+		
+			</div>	
+			<div class="short-pages-2 clearfix">
+				<div class="links">
+					
+						
+							
+								<a href="javascript:window.location.reload(true);">刷新</a>
+							
+							
+								
+									<a href="/list.jsp?item=666&nextid=1516954681000" rel="nofollow">下一页</a>
+								
+							
+						
+					
+				</div>
+			</div> 
+			
+			<div class="clearfix">
+        		<div id="q_backbanner_685_90_additional" class="ad-additional" _nodispaly="true"><!--宽屏补充广告位--></div>
+				<div id="q_backbanner_685_90" data-ads-order="07" class="ads-loc-holder clearfix"><!--底部通栏广告--></div>
+        	</div>
+        </div>
+    </div>
+    <div id="ft"></div>
+</div>
+
+<script type="text/javascript">
+var g_advLinks=['http://static.tianyaui.com/global/wizard/js/wizard.js'];
+</script>
+
+<script type="text/javascript" charset="UTF-8" src="http://static.tianyaui.com/global/bbs/web/static/js/bbs_346e1ef.js"></script>
+<!-- 传様广告脚本 
+<script type="text/javascript" charset="UTF-8" src="http://static.tianyaui.com/qy/adsame/ads-key-dict.js?v=201703090830"></script>-->
+<!--右下滑动广告
+<script type="text/javascript" charset="UTF-8" src="http://static.tianyaui.com/global/wizard/js/wizard.js"></script>
+<script type="text/javascript">
+var adsp_ext_q_topbanner_685_90 = "";
+var adsp_ext_q_button_180_90_1 = "";
+var adsp_ext_q_button_180_300 = "";
+var adsp_ext_q_button_180_150_1 ="";
+</script>
+<span id="adsp_ext_div_1" style="display:none"><script type="text/javascript">document.write(adsp_ext_q_topbanner_685_90);</script></span>
+<span id="adsp_ext_div_2" style="display:none"><script type="text/javascript">document.write(adsp_ext_q_button_180_90_1);</script></span>
+<span id="adsp_ext_div_3" style="display:none"><script type="text/javascript">document.write(adsp_ext_q_button_180_300);</script></span>
+<span id="adsp_ext_div_4" style="display:none"><script type="text/javascript">document.write(adsp_ext_q_button_180_150_1);</script></span>
+
+<script type="text/javascript">
+if(adsp_ext_q_topbanner_685_90!="" && adsp_ext_q_topbanner_685_90!="allbbs"){try{
+document.getElementById("q_topbanner_685_90").innerHTML=document.getElementById("adsp_ext_div_1").innerHTML;
+}catch(e){}}
+if(adsp_ext_q_button_180_90_1!="" && adsp_ext_q_button_180_90_1!="allbbs"){try{
+document.getElementById("q_button_180_90_1").innerHTML=document.getElementById("adsp_ext_div_2").innerHTML;
+}catch(e){}}
+if(adsp_ext_q_button_180_300!="" && adsp_ext_q_button_180_300!="allbbs"){try{
+document.getElementById("q_button_180_300").innerHTML=document.getElementById("adsp_ext_div_3").innerHTML;
+}catch(e){}}
+if(adsp_ext_q_button_180_150_1!="" && adsp_ext_q_button_180_150_1!="allbbs"){try{
+document.getElementById("q_button_180_150_1").innerHTML=document.getElementById("adsp_ext_div_4").innerHTML;
+}catch(e){}}
+</script>-->
+<div data-ads-order="09" class="ads-loc-holder ty-crazy-media"><!--疯狂广告--></div>
+    <div id="foot">
+        <P>
+			<A href="http://help.tianya.cn/about/about.html" rel="nofollow" target=_blank>关于天涯</A> |
+			<A href="http://help.tianya.cn/about/service.html" rel="nofollow" target=_blank>广告服务</A> |
+		<!--	<A href="http://open.tianya.cn" rel="nofollow" target=_blank>开放平台</A> |-->
+			<A href="http://service.tianya.cn/" rel="nofollow" target=_blank>天涯客服</A> |
+			<A href="http://help.tianya.cn/about/ystl.html" rel="nofollow" target=_blank>隐私和版权</A> |
+			<A href="http://help.tianya.cn/about/contact.html" rel="nofollow" target=_blank>联系我们</A> |
+			<A href="http://join.tianya.cn" rel="nofollow" target=_blank>加入天涯</A> |
+			<A href="http://www.tianya.cn/mobile/" rel="nofollow" target=_blank>手机版</A> |
+			<A href="http://service.tianya.cn/jbts.html" rel="nofollow" target=_blank>侵权投诉</A>
+		</P>
+    <P class="copyright">&copy; 1999 - 2018 天涯社区 </P>
+    </div>
+</div>
+
+<!--<script type="text/javascript" charset="UTF-8" src="http://static.tianyaui.com/qy/adsame/ads.js?v=201703090830"></script>-->
+<!-- Start Alexa Certify Javascript -->
+<script type="text/javascript">
+_atrk_opts = { atrk_acct:"WCmTk1a4eFf2mh", domain:"tianya.cn",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=WCmTk1a4eFf2mh" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- End Alexa Certify Javascript --> 
+
+</body>
+</html>
